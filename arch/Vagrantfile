@@ -1,0 +1,4 @@
+Vagrant.configure("2") do |config|
+  config.vm.box = "ph20/blackarch-core-x86_64"
+  config.vm.synced_folder ".", "/Users/charlmert/tmp", type: 'nfs'
+end
