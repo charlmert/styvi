@@ -1,0 +1,12 @@
+update home_speedpackage set recurringPriceVatInc = '450' where name like '%Force Telecoms 5Mbps FTTH%';
+update home_speedpackage set recurringPriceVatInc = '550' where name like '%Force Telecoms 10Mbps FTTH%';
+update home_speedpackage set recurringPriceVatInc = '750' where name like '%Force Telecoms 20Mbps FTTH%';
+update home_speedpackage set recurringPriceVatInc = '950' where name like '%Force Telecoms 20Mbps FTTH%';
+update home_speedpackage set recurringPriceVatInc = '1450' where name like '%Force Telecoms 20Mbps FTTH%';
+update home_speedpackage set recurringPriceVatInc = '950' where name like '%Force Telecoms 50Mbps FTTH%';
+update home_speedpackage set recurringPriceVatInc = '1450' where name like '%Force Telecoms 100Mbps FTTH%';
+update home_speedpackage set recurringPriceVatInc = '650' where name like '%Force Telecoms 5Mbps FTTB%';
+update home_speedpackage set recurringPriceVatInc = '1550' where name like '%Force Telecoms 20Mbps FTTB%';
+update home_speedpackage set recurringPriceVatInc = '2050' where name like '%Force Telecoms 50Mbps FTTB%';
+update home_speedpackage set recurringPriceVatInc = '2850' where name like '%Force Telecoms 100Mbps FTTB%';
+
