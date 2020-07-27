@@ -2,7 +2,7 @@
 
 1. Download vagrant_rancheros_guest_plugin.rb and
 2. Add this to the top of your Vagrantfile
-require_relative 'vagrant_rancheros_guest_plugin.rb'
+require_relative 'rancheros_plugin.rb'
 
 # Second Option
 
