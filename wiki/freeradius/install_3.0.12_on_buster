@@ -1,0 +1,51 @@
+# Install freeradius 3.0.12 on Debian 10/Buster
+
+Edit /etc/apt/sources.list
+Add a line for debian 9/stretch main
+
+```sh
+deb http://deb.debian.org/debian stretch main
+```
+
+Update apt
+
+```sh
+apt-get update
+```
+
+Remove / Purge all previous versions
+
+```sh
+apt-get purge freeradius
+```
+
+Find versions available
+
+```sh
+apt-cache madison freeradius
+```
+
+Output should look something like the following
+
+```sh
+freeradius | 3.0.17+dfsg-1.1 | http://deb.debian.org/debian buster/main amd64 Packages
+freeradius | 3.0.12+dfsg-5+deb9u1 | http://deb.debian.org/debian stretch/main amd64 Packages
+```
+
+Copy the freeradius version string for 3.0.12, 3.0.12+dfsg-5+deb9u1
+
+Install freeradius 3.0.12
+
+```sh
+apt-get install libfreeradius3=3.0.12+dfsg-5+deb9u1
+apt-get install freeradius=3.0.12+dfsg-5+deb9u1
+apt-get install freeradius-utils=3.0.12+dfsg-5+deb9u1
+apt-get install libmariadbclient18
+apt-get install freeradius-mysql=3.0.12+dfsg-5+deb9u1
+```
+
+To install older config
+
+```sh
+sudo apt install --reinstall -o Dpkg::Options::="--force-confask,confnew,confmiss" freeradius=3.0.12+dfsg-5+deb9u1
+```
