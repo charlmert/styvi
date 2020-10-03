@@ -1,4 +1,4 @@
-# Encrypting a disk with key based access
+# Encrypting a disk with key file based access
 
 Can only encrypt a full drive or block level device like an entire disk
 
