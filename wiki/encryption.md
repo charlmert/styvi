@@ -12,7 +12,9 @@ fdisk -l
 Format it
 
 ```
-dd if=/dev/urandom of=/dev/sda bs=4096
+# dd if=/dev/urandom of=/dev/sda bs=4096
+# OR
+shred --verbose -n 3 /dev/sda
 ```
 
 Testing for encryption support
