@@ -92,7 +92,7 @@ umount /mnt/murdis
 This will make it unusable to anyone else
 
 ```sh
-cryptesetup luksClose murdis
+cryptsetup luksClose murdis
 ```
 
 ## Remove the password based key slot (auth method)
