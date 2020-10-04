@@ -1,0 +1,12 @@
+#if [ "@?" -lt 2 ]; then
+#    print "USAGE $0 pid"
+#    exit 1
+#fi
+
+output=`lsof -p $1 -a -i; r=$?; echo /; exit "$r"`
+result="$?"
+output=${output%/}
+
+if [ "$result" -eq 0 ]; then
+    echo -n "$output"
+fi
