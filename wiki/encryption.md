@@ -116,7 +116,7 @@ Paste the following
 ```sh
 #!/bin/bash
 #cryptsetup luksOpen /dev/sda1 murdis
-cryptsetup -v open --type luks /dev/sda1 murdus --key-file /media/charl/murdis/key
+cryptsetup -v open --type luks /dev/sda1 murdis --key-file /media/charl/murdis/key
 if [ "$?" -eq 0 ]; then
 	[ -e /mnt/murdis ] || mkdir -p /mnt/murdis
 	mount /dev/mapper/murdis /mnt/murdis
