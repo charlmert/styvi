@@ -2,19 +2,26 @@
 
 I have been struggling with weird issues, latest of which, regards possible changes to code in files while I'm working on parts of the project. I would run my vuejs app and it would complain about bable strictness. I make the appropriate changes to the needed files to remove the strict checking and it works for a time and then almost by itself, very literraly starts complaining about the strictness again.
 
-While trying to debug the exact conditions under which it would complain about strictness, when it wouldn't and when it just displays warnings, I found that all 3 of these states were reached in one developer server run instance without me having made any changes to the configuration files responsible for strictness behavior, specifically babel strictness.
+- While trying to debug the exact conditions under which it would complain about strictness, when it wouldn't and when it just displays warnings, I found that all 3 of these states were reached in one developer server run instance without me having made any changes to the configuration files responsible for strictness behavior, specifically babel strictness.
 
 VueJS dev server would re-build once it detected any changes to any .vue or config files. So if someone were to change any config file while I was browsing the frontend it would break and complain about the strictness.
 
-I have been encountering many similar situations. My celery (https://docs.celeryproject.org/en/stable/django/first-steps-with-django.html) queue implementation stops working without any changes to any code relating to that.
+- I have been encountering many similar situations. My celery (https://docs.celeryproject.org/en/stable/django/first-steps-with-django.html) queue implementation stops working without any changes to any code relating to that.
 It's as if it was broken by an external factor and I had to replace it with my own database level queueing system.
 
-I have also recorded database passwords being changed at times. I can't be too sure about that one specifically as it's always intended for me to think I've gone mad and I will admit that I am on known medication for a mental disorder called paranoid schizophrenia.
+- Django rest framework email auth stops working randomly without any changes to code from me. I literally had to change the known to be working code from "username" to "email" but it was possibly an upgrade of django but that speicifc file was created by me and wouldn't require any changes (this specific case was questionable though).
 
-My findings are very much based on facts though I am more hesitant when it comes to reporting things.
-My latest findings is that I am facing a very real threat and it's stopping me from completing a very important project for which I have very little time to complete.
+- I was making changes to a vhost file to redirect traffic to certian content within a django static/ site and encountered strange behavior as if the changes I was making wasn't taking effect at all, as if the file contents were being seen as different to the apache process. I suspected VFS tampering or text/code hiding.
+
+- I have also recorded database passwords being changed at times. My django apps won't connect to their databases even with the correct configuration and after some time with no realy changes from me just connect. I can't be too sure about that one specifically as it's always intended for me to think I've gone mad and I will admit that I am on known medication for a mental disorder called paranoid schizophrenia.
+
+My findings are very much based on facts though I am more hesitant when it comes to reporting things due to my mental illness.
+
+My latest findings is that I am facing a very real threat and it's stopping me from completing a very important project. I also have very little time to complete this project.
 
 # Unfortunately if your mac is bricked by an eufi bootkit
+
+Here's a knowledeable macbook user complaining about something similar but with more emphasis on how he tried to fix it.
 
 https://discussions.apple.com/thread/7095250
 
@@ -25,9 +32,10 @@ He complains that even setting nvram and smc doesn't work, this means that he wa
 Here's a link to the author of the latest bootkit malware including a writeup of this eufi based attack
 https://trmm.net/Thunderstrike/
 
-If you have been infected then it would be impossible to re-flash your boot rom as it will only accept firmware from the attacker as the attacker has the rsa key to sign it with.
+If you have been infected then it would be impossible to re-flash your boot rom as it will only accept firmware from the attacker as the attacker has the rsa key to sign the rom firmware with. This will then be the only firmware that will be allowed to be installed, the attackers firmware.
 
 One could try and flash your macbook with a firmware update from apple and see if it goes through with the installation. If not then it's definitely infected.
+
 https://support.apple.com/en_GB/downloads/macnotebooks
 
 # Unhiding rootkits by installing a newly built kernel.
