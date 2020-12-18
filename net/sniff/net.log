@@ -1,0 +1,1119 @@
+COMMAND	PID	USER	FD	TYPE	DEVICE	SIZE/OFF	NODE	NAME
+chrome    12457   charl  164u  IPv4 1888464      0t0  TCP 192.168.88.10:39532->3.222.179.110:https (ESTABLISHED)
+chrome    12457   charl   76u  IPv4 1820468      0t0  TCP 192.168.88.10:36500->208.66.56.118:https (SYN_SENT)
+chrome    12457   charl  153u  IPv4 1953692      0t0  TCP 192.168.88.10:58024->149.20.4.15:https (SYN_SENT)
+chrome    12457   charl  143u  IPv4 1954497      0t0  TCP 192.168.88.10:59536->52.28.254.214:https (CLOSE_WAIT)
+chrome    12457   charl   42u  IPv4 2055220      0t0  TCP 192.168.88.10:41518->216.239.32.116:https (ESTABLISHED)
+chrome    12457   charl  211u  IPv4 1890181      0t0  TCP 192.168.88.10:34290->54.36.172.109:https (SYN_SENT)
+chrome    12457   charl  244u  IPv4 1893228      0t0  TCP 192.168.88.10:46636->216.58.223.134:https (ESTABLISHED)
+chrome    12457   charl   83u  IPv4 1801624      0t0  UDP 192.168.88.10:38727->8.8.8.8:domain 
+colord-sa 29104  colord   14u  IPv4 2231301      0t0  UDP *:43754 
+chrome    12457   charl   92u  IPv4 1896116      0t0  TCP 192.168.88.10:46200->151.139.128.11:https (SYN_SENT)
+chrome    12457   charl  114u  IPv4 1883087      0t0  TCP 192.168.88.10:43626->77.245.57.72:https (ESTABLISHED)
+chrome    12457   charl  116u  IPv4 1889766      0t0  TCP 192.168.88.10:56946->104.26.2.146:https (ESTABLISHED)
+chrome  12457   charl   23u  IPv4 221103      0t0  TCP 192.168.88.10:41430->172.217.170.67:https (ESTABLISHED)
+chrome    12457   charl  215u  IPv4 1891473      0t0  TCP 192.168.88.10:59824->69.173.144.165:https (ESTABLISHED)
+chrome    12457   charl  113u  IPv4 1971746      0t0  TCP 192.168.88.10:47460->194.71.11.173:https (CLOSE_WAIT)
+chrome    12457   charl  131u  IPv4 1930997      0t0  TCP 192.168.88.10:58634->104.244.39.20:https (CLOSE_WAIT)
+chrome    12457   charl  122u  IPv4 1891458      0t0  TCP 192.168.88.10:58058->52.94.232.32:https (ESTABLISHED)
+colord-sa 29104  colord   15u  IPv4 2237936      0t0  UDP *:58232 
+chrome    12457            charl   34u  IPv4 297585      0t0  TCP 192.168.88.10:49038->172.217.170.46:https (ESTABLISHED)
+chrome    12457   charl  110u  IPv4 1931657      0t0  UDP 192.168.88.10:47103->8.8.8.8:domain 
+chrome    12457   charl   51u  IPv4 241930      0t0  TCP 192.168.88.10:39276->143.204.19.119:https (ESTABLISHED)
+avahi-dae 688   avahi   12u  IPv4  19902      0t0  UDP *:mdns 
+chrome    12457   charl   85u  IPv4 1894858      0t0  TCP 192.168.88.10:44970->13.224.78.45:https (SYN_SENT)
+chrome    12457   charl   46u  IPv4 1948146      0t0  TCP 192.168.88.10:35420->172.217.170.3:https (SYN_SENT)
+chrome    12457   charl  223u  IPv4 1892428      0t0  UDP 192.168.88.10:37340->8.8.8.8:domain 
+chrome    12457   charl   46u  IPv4 1783471      0t0  TCP 192.168.88.10:44034->136.243.133.44:https (SYN_SENT)
+chrome    12457   charl  187u  IPv4 1892425      0t0  TCP 192.168.88.10:59832->69.173.144.165:https (CLOSE_WAIT)
+chrome    12457   charl   76u  IPv4 1880890      0t0  TCP 192.168.88.10:34962->13.224.78.80:https (ESTABLISHED)
+chrome    12457   charl  110u  IPv4 1883112      0t0  TCP 192.168.88.10:35788->199.127.204.147:https (ESTABLISHED)
+chrome    12457   charl  122u  IPv4 1891332      0t0  UDP 192.168.88.10:54871->8.8.8.8:domain 
+colord-sa 29104  colord   14u  IPv4 2214708      0t0  UDP 172.17.0.1:8612 
+chrome    12457   charl   85u  IPv4 1883184      0t0  UDP 192.168.88.10:55673->8.8.8.8:domain 
+COMMAND   PID    USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+chrome    12457   charl   60u  IPv4 1899004      0t0  UDP 192.168.88.10:48504->8.8.8.8:domain 
+chrome    12457   charl   41u  IPv4 240489      0t0  TCP 192.168.88.10:58174->192.0.73.2:https (ESTABLISHED)
+systemd-t   415 systemd-timesync   12u  IPv4 568402      0t0  UDP 192.168.88.10:43135->8.8.8.8:domain 
+chrome    12457   charl  145u  IPv4 1969976      0t0  TCP 192.168.88.10:47470->194.71.11.173:https (CLOSE_WAIT)
+chrome    12457   charl  214u  IPv4 1891448      0t0  TCP 192.168.88.10:56472->208.100.17.184:https (SYN_SENT)
+chrome    12457   charl  100u  IPv4 1890680      0t0  UDP 192.168.88.10:56950->8.8.8.8:domain 
+chrome    12457   charl  210u  IPv4 1894114      0t0  TCP 192.168.88.10:60870->154.59.122.79:https (SYN_SENT)
+chrome    12457   charl   39u  IPv4 236024      0t0  TCP 192.168.88.10:33522->172.217.170.14:https (SYN_SENT)
+chrome    12457   charl   59u  IPv4 1889168      0t0  TCP 192.168.88.10:42580->172.217.170.65:https (ESTABLISHED)
+chrome    12457   charl  223u  IPv4 1891821      0t0  UDP 192.168.88.10:47810->8.8.8.8:domain 
+chrome    12457   charl  135u  IPv4 1955022      0t0  TCP 192.168.88.10:56220->69.173.144.138:https (CLOSE_WAIT)
+chrome    12457   charl  107u  IPv4 2012374      0t0  TCP 192.168.88.10:38978->130.89.148.77:https (ESTABLISHED)
+chrome    12457   charl  211u  IPv4 1890181      0t0  TCP 192.168.88.10:34290->54.36.172.109:https (ESTABLISHED)
+chrome    12457   charl   38u  IPv4 1773465      0t0  UDP 192.168.88.10:44245->8.8.8.8:domain 
+chrome  12457   charl   36u  IPv4 226808      0t0  TCP 192.168.88.10:60560->216.58.223.132:https (ESTABLISHED)
+chrome    12457   charl  225u  IPv4 1892043      0t0  TCP 192.168.88.10:52272->64.233.166.155:https (ESTABLISHED)
+chrome    12457   charl   40u  IPv4 544109      0t0  TCP 192.168.88.10:46516->216.58.213.3:https (ESTABLISHED)
+chrome    12457   charl   40u  IPv4 1773893      0t0  TCP 192.168.88.10:55710->172.217.170.1:https (ESTABLISHED)
+chrome    12457   charl  140u  IPv4 1896117      0t0  TCP 192.168.88.10:46202->151.139.128.11:https (SYN_SENT)
+wget        392   charl    5u  IPv4 2272187      0t0  UDP 192.168.88.10:40096->8.8.8.8:domain 
+chrome    12457   charl  140u  IPv4 1956150      0t0  TCP 192.168.88.10:54214->52.212.223.152:https (CLOSE_WAIT)
+chrome    12457   charl  109u  IPv4 1885090      0t0  UDP 192.168.88.10:57875->8.8.8.8:domain 
+chrome    12457   charl   82u  IPv4 304374      0t0  UDP 192.168.88.10:45692->8.8.8.8:domain 
+chrome    12457   charl   83u  IPv4 1999735      0t0  TCP 192.168.88.10:56816->51.89.240.37:https (SYN_SENT)
+chrome    12457   charl   42u  IPv4 1773417      0t0  TCP 192.168.88.10:55272->216.58.223.142:https (SYN_SENT)
+chrome    12457   charl  220u  IPv4 1891471      0t0  TCP 192.168.88.10:35396->212.82.100.176:https (ESTABLISHED)
+chrome    12457   charl   69u  IPv4 250425      0t0  UDP 192.168.88.10:47726->8.8.8.8:domain 
+chrome    12457   charl   51u  IPv4 241930      0t0  TCP 192.168.88.10:39276->143.204.19.119:https (SYN_SENT)
+chrome    12457   charl  133u  IPv4 1888409      0t0  TCP 192.168.88.10:40056->18.195.155.181:https (ESTABLISHED)
+chrome    12457   charl   83u  IPv4 1822225      0t0  TCP 192.168.88.10:36510->208.66.56.118:https (ESTABLISHED)
+chrome    12457   charl  125u  IPv4 1952953      0t0  TCP 192.168.88.10:36112->199.127.204.147:https (SYN_SENT)
+chrome    12457   charl  110u  IPv4 1933724      0t0  TCP 192.168.88.10:42466->46.137.152.93:https (SYN_SENT)
+chrome    12457   charl  115u  IPv4 1955846      0t0  TCP 192.168.88.10:55840->213.254.244.15:https (SYN_SENT)
+chrome    12457   charl  132u  IPv4 1957713      0t0  UDP 192.168.88.10:60239->8.8.8.8:domain 
+chrome    12457   charl   32u  IPv4 224895      0t0  UDP 192.168.88.10:41314->8.8.8.8:domain 
+chrome    12457   charl   42u  IPv4 1773417      0t0  TCP 192.168.88.10:55272->216.58.223.142:https (ESTABLISHED)
+chrome    12457   charl  157u  IPv4 1896764      0t0  TCP 192.168.88.10:39966->172.217.170.70:https (ESTABLISHED)
+chrome    12457   charl  129u  IPv4 1954944      0t0  TCP 192.168.88.10:36466->193.0.160.129:https (SYN_SENT)
+chrome    12457   charl   54u  IPv4 1968938      0t0  TCP 192.168.88.10:46610->213.254.244.17:https (ESTABLISHED)
+chrome    12457   charl  132u  IPv4 1888406      0t0  TCP 192.168.88.10:59516->89.207.16.140:https (SYN_SENT)
+chrome    12457   charl  125u  IPv4 1888408      0t0  TCP 192.168.88.10:44748->178.162.133.149:https (ESTABLISHED)
+chrome  12457   charl   76u  IPv4 303442      0t0  TCP 192.168.88.10:56144->172.217.170.66:https (ESTABLISHED)
+chrome    12457   charl   44u  IPv4 1782733      0t0  TCP 192.168.88.10:44038->136.243.133.44:https (CLOSE_WAIT)
+chrome    12457   charl   76u  IPv4 1950079      0t0  TCP 192.168.88.10:34074->172.217.170.14:https (SYN_SENT)
+chrome    12457   charl  124u  IPv4 1952952      0t0  TCP 192.168.88.10:59930->35.227.248.159:https (ESTABLISHED)
+chrome    12457   charl  141u  IPv4 1969974      0t0  TCP 192.168.88.10:47466->194.71.11.173:https (CLOSE_WAIT)
+chrome    12457   charl  233u  IPv4 1893291      0t0  TCP 192.168.88.10:56654->54.179.29.174:https (SYN_SENT)
+chrome    12457   charl  160u  IPv4 1956593      0t0  TCP 192.168.88.10:47522->185.64.189.110:https (SYN_SENT)
+chrome    12457   charl   61u  IPv4 243677      0t0  TCP 192.168.88.10:38586->172.217.170.10:https (ESTABLISHED)
+chrome    12457   charl  232u  IPv4 1893296      0t0  TCP 192.168.88.10:49800->46.228.164.11:https (SYN_SENT)
+chrome    12457   charl  112u  IPv4 1890413      0t0  UDP 192.168.88.10:58672->8.8.8.8:domain 
+chrome    12457   charl  123u  IPv4 1890178      0t0  TCP 192.168.88.10:39490->77.243.60.138:https (ESTABLISHED)
+chrome    12457   charl   23u  IPv4 221103      0t0  TCP 192.168.88.10:41430->172.217.170.67:https (ESTABLISHED)
+chrome    12457   charl  224u  IPv4 1897128      0t0  TCP 192.168.88.10:58606->104.244.39.20:https (SYN_SENT)
+chrome    12457   charl   36u  IPv4 226808      0t0  TCP 192.168.88.10:60560->216.58.223.132:https (ESTABLISHED)
+chrome    12457   charl   44u  IPv4 1782733      0t0  TCP 192.168.88.10:44038->136.243.133.44:https (ESTABLISHED)
+chrome    12457   charl   49u  IPv4 1832105      0t0  TCP 192.168.88.10:46616->216.58.213.3:https (SYN_SENT)
+chrome    12457   charl   73u  IPv4 302440      0t0  TCP 192.168.88.10:37584->173.194.128.232:http (CLOSE_WAIT)
+chrome    12457   charl   75u  IPv4 1883016      0t0  TCP 192.168.88.10:48130->192.132.33.46:https (SYN_SENT)
+chrome    12457   charl  238u  IPv4 1897133      0t0  TCP 192.168.88.10:58610->104.244.39.20:https (ESTABLISHED)
+chrome    12457   charl   91u  IPv4 1910910      0t0  TCP 192.168.88.10:58612->104.244.39.20:https (ESTABLISHED)
+chrome    12457   charl   41u  IPv4 1947566      0t0  TCP 192.168.88.10:56550->172.217.170.35:https (ESTABLISHED)
+chrome    12457   charl   27u  IPv4 1767700      0t0  TCP 192.168.88.10:60662->216.58.223.132:https (ESTABLISHED)
+chrome    12457   charl   95u  IPv4 1888558      0t0  TCP 192.168.88.10:41040->34.250.65.236:https (SYN_SENT)
+chrome    12457   charl  129u  IPv4 1954944      0t0  TCP 192.168.88.10:36466->193.0.160.129:https (ESTABLISHED)
+chrome    12457   charl  201u  IPv4 1896120      0t0  TCP 192.168.88.10:46208->151.139.128.11:https (SYN_SENT)
+chrome    12457   charl  172u  IPv4 1959393      0t0  UDP 192.168.88.10:55837->8.8.8.8:domain 
+chrome    12457   charl   60u  IPv4 1930128      0t0  TCP 192.168.88.10:47358->151.101.1.194:https (ESTABLISHED)
+chrome    12457   charl  105u  IPv4 1889121      0t0  TCP 192.168.88.10:42578->172.217.170.65:https (ESTABLISHED)
+chrome    12457   charl  123u  IPv4 1890178      0t0  TCP 192.168.88.10:39490->77.243.60.138:https (SYN_SENT)
+chrome    12457   charl   85u  IPv4 1882389      0t0  TCP 192.168.88.10:44708->178.162.133.149:https (ESTABLISHED)
+wget      31064   charl    5u  IPv4 2250124      0t0  TCP 192.168.88.10:34264->172.217.170.14:https (SYN_SENT)
+chrome    12457   charl   74u  IPv4 1882181      0t0  TCP 192.168.88.10:56108->172.217.170.2:https (SYN_SENT)
+chrome    12457   charl  222u  IPv4 1891475      0t0  TCP 192.168.88.10:59828->69.173.144.165:https (SYN_SENT)
+chrome    12457   charl  175u  IPv4 1962023      0t0  TCP 192.168.88.10:34022->54.208.200.8:https (ESTABLISHED)
+chrome    12457   charl   71u  IPv4 1819026      0t0  TCP 192.168.88.10:36498->208.66.56.118:https (SYN_SENT)
+chrome    12457   charl  142u  IPv4 1932055      0t0  TCP 192.168.88.10:58648->104.244.39.20:https (SYN_SENT)
+chrome    12457   charl  108u  IPv4 1952706      0t0  UDP 192.168.88.10:50662->8.8.8.8:domain 
+chrome    12457   charl  199u  IPv4 1889870      0t0  TCP 192.168.88.10:41076->34.250.65.236:https (ESTABLISHED)
+chrome    12457   charl  238u  IPv4 1897133      0t0  TCP 192.168.88.10:58610->104.244.39.20:https (SYN_SENT)
+chrome    12457   charl  197u  IPv4 1894430      0t0  TCP 192.168.88.10:45216->185.64.190.81:https (SYN_SENT)
+chrome    12457   charl  201u  IPv4 1897127      0t0  TCP 192.168.88.10:58604->104.244.39.20:https (CLOSE_WAIT)
+chrome    12457   charl   47u  IPv4 1798376      0t0  TCP 192.168.88.10:44258->37.221.195.178:https (ESTABLISHED)
+chrome    12457   charl   41u  IPv4 1773416      0t0  TCP 192.168.88.10:56958->216.58.223.131:https (ESTABLISHED)
+chrome    12457   charl  107u  IPv4 1883065      0t0  TCP 192.168.88.10:59530->185.33.220.243:https (CLOSE_WAIT)
+chrome    12457   charl   54u  IPv4 1961273      0t0  TCP 192.168.88.10:34024->54.208.200.8:https (ESTABLISHED)
+chrome    12457   charl   96u  IPv4 1969800      0t0  TCP 192.168.88.10:50012->46.228.164.11:https (SYN_SENT)
+chrome    12457   charl  137u  IPv4 1972025      0t0  TCP 192.168.88.10:59988->185.33.220.243:https (SYN_SENT)
+chrome    12457            charl   54u  IPv4 364421      0t0  TCP 192.168.88.10:53928->216.58.223.99:https (ESTABLISHED)
+chrome    12457   charl   41u  IPv4 2002473      0t0  TCP 192.168.88.10:56826->51.89.240.37:https (SYN_SENT)
+chrome    12457   charl  127u  IPv4 1946914      0t0  UDP 192.168.88.10:42961->8.8.8.8:domain 
+chrome    12457   charl   46u  IPv4 2003753      0t0  UDP 192.168.88.10:53948->8.8.8.8:domain 
+chrome    12457   charl   43u  IPv4 1771139      0t0  UDP 192.168.88.10:38711->8.8.8.8:domain 
+chrome    12457   charl  139u  IPv4 1973355      0t0  TCP 192.168.88.10:35048->136.144.49.28:https (ESTABLISHED)
+chrome    12457   charl   51u  IPv4 364420      0t0  TCP 192.168.88.10:45432->172.217.170.78:https (ESTABLISHED)
+chrome    12457   charl  100u  IPv4 1930998      0t0  TCP 192.168.88.10:42464->46.137.152.93:https (SYN_SENT)
+chrome    12457   charl  182u  IPv4 1892045      0t0  TCP 192.168.88.10:52280->64.233.166.155:https (SYN_SENT)
+chrome    12457   charl   91u  IPv4 1999736      0t0  TCP 192.168.88.10:56818->51.89.240.37:https (ESTABLISHED)
+chrome    12457   charl   54u  IPv4 2011410      0t0  TCP 192.168.88.10:35604->172.217.170.3:https (CLOSE_WAIT)
+chrome    12457   charl  154u  IPv4 1889399      0t0  TCP 192.168.88.10:33198->52.95.123.41:https (SYN_SENT)
+chrome    12457   charl  179u  IPv4 1888774      0t0  UDP 192.168.88.10:37022->8.8.8.8:domain 
+chrome    12457   charl  177u  IPv4 1893222      0t0  UDP 192.168.88.10:42445->8.8.8.8:domain 
+chrome    12457   charl   69u  IPv4 1952924      0t0  UDP 192.168.88.10:60673->8.8.8.8:domain 
+chrome    12457   charl  155u  IPv4 1974276      0t0  TCP 192.168.88.10:41462->46.228.164.13:https (SYN_SENT)
+chrome    12457   charl   47u  IPv4 2069240      0t0  UDP 192.168.88.10:34591->172.217.170.67:443 
+chrome    12457   charl  148u  IPv4 1889366      0t0  TCP 192.168.88.10:37728->2.17.205.20:https (ESTABLISHED)
+chrome    12457   charl  119u  IPv4 1891338      0t0  TCP 192.168.88.10:43952->35.241.15.240:https (ESTABLISHED)
+chrome    12457   charl   57u  IPv4 243897      0t0  TCP 192.168.88.10:49002->172.217.170.46:https (ESTABLISHED)
+chrome    12457   charl  182u  IPv4 1897126      0t0  TCP 192.168.88.10:58602->104.244.39.20:https (SYN_SENT)
+chrome    12457   charl  108u  IPv4 1883061      0t0  UDP 192.168.88.10:57772->8.8.8.8:domain 
+chrome    12457   charl  172u  IPv4 1955569      0t0  UDP 192.168.88.10:33076->8.8.8.8:domain 
+systemd-t   415 systemd-timesync   12u  IPv4 537789      0t0  UDP 192.168.88.10:48567->8.8.8.8:domain 
+chrome    12457   charl  143u  IPv4 1888414      0t0  TCP 192.168.88.10:59562->185.33.220.243:https (SYN_SENT)
+chrome    12457   charl   93u  IPv4 1969836      0t0  TCP 192.168.88.10:51664->52.58.116.213:https (ESTABLISHED)
+chrome    12457   charl   46u  IPv4 241078      0t0  TCP 192.168.88.10:57104->151.101.1.69:https (ESTABLISHED)
+chrome    12457   charl  131u  IPv4 1971890      0t0  TCP 192.168.88.10:35792->192.124.249.31:http (CLOSE_WAIT)
+chrome    12457   charl   85u  IPv4 1894858      0t0  TCP 192.168.88.10:44970->13.224.78.45:https (ESTABLISHED)
+chrome    12457   charl   35u  IPv4 233926      0t0  UDP 192.168.88.10:34779->8.8.8.8:domain 
+chrome    12457   charl  100u  IPv4 1932976      0t0  UDP 192.168.88.10:34083->8.8.8.8:domain 
+chrome    12457   charl  186u  IPv4 1891468      0t0  TCP 192.168.88.10:50768->54.221.123.110:https (ESTABLISHED)
+chrome    12457   charl   48u  IPv4 243403      0t0  TCP 192.168.88.10:57456->216.58.223.130:https (SYN_SENT)
+chrome    12457   charl   59u  IPv4 1799623      0t0  TCP 192.168.88.10:44262->37.221.195.178:https (SYN_SENT)
+chrome    12457   charl   67u  IPv4 301202      0t0  TCP 192.168.88.10:56064->172.217.170.35:https (SYN_SENT)
+chrome    12457   charl  147u  IPv4 1889866      0t0  TCP 192.168.88.10:54432->35.186.193.173:https (SYN_SENT)
+chrome    12457   charl  177u  IPv4 1897125      0t0  TCP 192.168.88.10:58600->104.244.39.20:https (ESTABLISHED)
+chrome    12457   charl   45u  IPv4 239591      0t0  TCP 192.168.88.10:47782->172.217.170.34:https (ESTABLISHED)
+chrome    12457            charl   77u  IPv4 304450      0t0  TCP 192.168.88.10:57520->142.250.102.188:https (ESTABLISHED)
+cups-brow 26910             root    7u  IPv4  461410      0t0  UDP *:ipp 
+cups-brow   744    root    7u  IPv4  20656      0t0  UDP *:ipp 
+chrome    12457   charl  124u  IPv4 1891328      0t0  TCP 192.168.88.10:60554->150.136.26.45:https (ESTABLISHED)
+chrome    12457   charl   85u  IPv4 1882389      0t0  TCP 192.168.88.10:44708->178.162.133.149:https (CLOSE_WAIT)
+chrome    12457   charl  213u  IPv4 1891474      0t0  TCP 192.168.88.10:59826->69.173.144.165:https (CLOSE_WAIT)
+chrome    12457   charl   76u  IPv4 1820468      0t0  TCP 192.168.88.10:36500->208.66.56.118:https (ESTABLISHED)
+chrome    12457   charl   54u  IPv4 2011410      0t0  TCP 192.168.88.10:35604->172.217.170.3:https (ESTABLISHED)
+chrome    12457            charl   51u  IPv4 364420      0t0  TCP 192.168.88.10:45432->172.217.170.78:https (ESTABLISHED)
+chrome    12457   charl   54u  IPv4 1789213      0t0  TCP 192.168.88.10:40154->216.58.223.106:https (SYN_SENT)
+chrome    12457   charl  179u  IPv4 1891447      0t0  TCP 192.168.88.10:46238->3.220.190.7:https (ESTABLISHED)
+chrome    12457   charl   66u  IPv4 1801853      0t0  TCP 192.168.88.10:48386->77.88.21.119:https (ESTABLISHED)
+chrome    12457   charl  130u  IPv4 1890736      0t0  TCP 192.168.88.10:57884->104.75.209.225:https (ESTABLISHED)
+chrome    12457   charl   38u  IPv4 1783470      0t0  TCP 192.168.88.10:44032->136.243.133.44:https (CLOSE_WAIT)
+chrome    12457            charl   58u  IPv4 242453      0t0  TCP 192.168.88.10:47470->91.228.74.198:https (ESTABLISHED)
+chrome    12457   charl  110u  IPv4 1883112      0t0  TCP 192.168.88.10:35788->199.127.204.147:https (SYN_SENT)
+chrome    12457   charl  104u  IPv4 1932587      0t0  TCP 192.168.88.10:43552->3.122.26.150:https (ESTABLISHED)
+chrome    12457   charl  159u  IPv4 1890421      0t0  TCP 192.168.88.10:59578->185.33.220.243:https (SYN_SENT)
+chrome    12457   charl  122u  IPv4 1971832      0t0  TCP 192.168.88.10:50496->185.86.139.115:https (SYN_SENT)
+chrome  12457   charl   41u  IPv4 240489      0t0  TCP 192.168.88.10:58174->192.0.73.2:https (ESTABLISHED)
+chrome    12457   charl   34u  IPv4 297585      0t0  TCP 192.168.88.10:49038->172.217.170.46:https (ESTABLISHED)
+chrome    12457   charl   74u  IPv4 1878798      0t0  UDP 192.168.88.10:37539->8.8.8.8:domain 
+chrome    12457   charl   76u  IPv4 1880890      0t0  TCP 192.168.88.10:34962->13.224.78.80:https (SYN_SENT)
+chrome    12457   charl   39u  IPv4 236024      0t0  TCP 192.168.88.10:33522->172.217.170.14:https (ESTABLISHED)
+chrome    12457   charl   93u  IPv4 1883054      0t0  TCP 192.168.88.10:32906->23.3.231.243:https (SYN_SENT)
+chrome    12457   charl   48u  IPv4 2006072      0t0  TCP 192.168.88.10:56726->172.217.170.35:https (ESTABLISHED)
+chrome    12457   charl   87u  IPv4 1882391      0t0  TCP 192.168.88.10:32944->35.244.159.8:https (ESTABLISHED)
+chrome    12457   charl   63u  IPv4 242306      0t0  TCP 192.168.88.10:44680->108.177.15.156:https (SYN_SENT)
+chrome  12457   charl   35u  IPv4 233052      0t0  TCP 192.168.88.10:48976->172.217.170.46:https (ESTABLISHED)
+chrome    12457   charl  184u  IPv4 1888569      0t0  TCP 192.168.88.10:58054->18.159.90.169:https (SYN_SENT)
+chrome    12457   charl  131u  IPv4 1954991      0t0  TCP 192.168.88.10:44414->199.127.204.142:https (ESTABLISHED)
+chrome    12457   charl  146u  IPv4 1955832      0t0  UDP 192.168.88.10:54364->8.8.8.8:domain 
+chrome    12457   charl   83u  IPv4 1951253      0t0  UDP 192.168.88.10:59164->8.8.8.8:domain 
+colord-sa  1411  colord   15u  IPv4 1705699      0t0  UDP *:56492 
+chrome    12457   charl   46u  IPv4 2005202      0t0  TCP 192.168.88.10:56728->172.217.170.35:https (CLOSE_WAIT)
+chrome    12457   charl  126u  IPv4 1887550      0t0  TCP 192.168.88.10:41784->2.17.204.225:https (ESTABLISHED)
+chrome    12457   charl  111u  IPv4 1891392      0t0  TCP 192.168.88.10:59782->69.173.144.165:https (CLOSE_WAIT)
+chrome    12457   charl   64u  IPv4 1878770      0t0  TCP 192.168.88.10:45924->151.139.128.11:https (SYN_SENT)
+chrome    12457   charl  112u  IPv4 1892424      0t0  TCP 192.168.88.10:37272->104.75.211.74:https (SYN_SENT)
+chrome    12457            charl   70u  IPv4 301464      0t0  TCP 192.168.88.10:32880->216.58.223.142:http (CLOSE_WAIT)
+chrome    12457   charl   83u  IPv4 1822225      0t0  TCP 192.168.88.10:36510->208.66.56.118:https (SYN_SENT)
+chrome    12457   charl   43u  IPv4 241569      0t0  TCP 192.168.88.10:35704->104.16.31.34:https (ESTABLISHED)
+chrome    12457   charl   43u  IPv4 241569      0t0  TCP 192.168.88.10:35704->104.16.31.34:https (SYN_SENT)
+chrome    12457   charl  169u  IPv4 1959371      0t0  TCP 192.168.88.10:34670->54.204.100.122:https (SYN_SENT)
+chrome    12457   charl  129u  IPv4 1972027      0t0  TCP 192.168.88.10:49466->35.186.236.204:https (ESTABLISHED)
+chrome    12457   charl   95u  IPv4 1888531      0t0  UDP 192.168.88.10:39158->8.8.8.8:domain 
+chrome    12457   charl   38u  IPv4 233048      0t0  TCP 192.168.88.10:57430->216.58.223.130:https (ESTABLISHED)
+COMMAND     PID    USER   FD   TYPE  DEVICE SIZE/OFF NODE NAME
+chrome    12457   charl  197u  IPv4 1894430      0t0  TCP 192.168.88.10:45216->185.64.190.81:https (ESTABLISHED)
+chrome    12457   charl  165u  IPv4 1957349      0t0  TCP 192.168.88.10:41840->18.158.221.94:https (ESTABLISHED)
+chrome    12457   charl   96u  IPv4 1888387      0t0  TCP 192.168.88.10:51230->52.58.116.213:https (ESTABLISHED)
+chrome    12457   charl  124u  IPv4 1891328      0t0  TCP 192.168.88.10:60554->150.136.26.45:https (SYN_SENT)
+chrome    12457   charl   93u  IPv4 1914078      0t0  TCP 192.168.88.10:49848->46.228.164.11:https (ESTABLISHED)
+chrome    12457   charl   94u  IPv4 1952934      0t0  TCP 192.168.88.10:50066->116.202.172.174:https (ESTABLISHED)
+COMMAND     PID             USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+chrome    12457   charl   98u  IPv4 1889373      0t0  TCP 192.168.88.10:57096->67.202.110.23:https (SYN_SENT)
+chrome    12457   charl   93u  IPv4 1930338      0t0  UDP 192.168.88.10:40562->8.8.8.8:domain 
+chrome    12457   charl   71u  IPv4 260114      0t0  TCP 192.168.88.10:55948->172.217.170.2:https (ESTABLISHED)
+chrome    12457   charl   47u  IPv4 1798376      0t0  TCP 192.168.88.10:44258->37.221.195.178:https (CLOSE_WAIT)
+chrome    12457   charl  132u  IPv4 1958663      0t0  TCP 192.168.88.10:55446->18.207.146.85:https (SYN_SENT)
+chrome    12457   charl   46u  IPv4 1777270      0t0  UDP 192.168.88.10:48277->8.8.8.8:domain 
+chrome  12457   charl   77u  IPv4 304450      0t0  TCP 192.168.88.10:57520->142.250.102.188:https (ESTABLISHED)
+chrome    12457   charl   86u  IPv4 1892752      0t0  TCP 192.168.88.10:38680->18.235.226.14:https (ESTABLISHED)
+chrome    12457   charl   69u  IPv4 1878791      0t0  TCP 192.168.88.10:38636->91.228.74.134:https (SYN_SENT)
+chrome    12457   charl  161u  IPv4 1887849      0t0  TCP 192.168.88.10:57732->216.58.223.130:https (ESTABLISHED)
+chrome    12457   charl  144u  IPv4 1969975      0t0  TCP 192.168.88.10:47468->194.71.11.173:https (CLOSE_WAIT)
+chrome    12457   charl   42u  IPv4 2054506      0t0  UDP 192.168.88.10:46961->8.8.8.8:domain 
+chrome    12457   charl  112u  IPv4 1891462      0t0  UDP 192.168.88.10:39853->8.8.8.8:domain 
+chrome    12457   charl   91u  IPv4 1933380      0t0  TCP 192.168.88.10:39834->69.173.144.154:https (SYN_SENT)
+chrome    12457   charl  166u  IPv4 1960029      0t0  TCP 192.168.88.10:58242->185.94.180.126:https (SYN_SENT)
+chrome    12457   charl  108u  IPv4 1894541      0t0  TCP 192.168.88.10:52284->64.233.166.155:https (ESTABLISHED)
+chrome    12457   charl   37u  IPv4 1868970      0t0  UDP 192.168.88.10:37084->8.8.8.8:domain 
+chrome    12457   charl  124u  IPv4 1891328      0t0  TCP 192.168.88.10:60554->150.136.26.45:https (CLOSE_WAIT)
+mongod    738 mongodb   11u  IPv4  21444      0t0  TCP 127.0.0.1:27017 (LISTEN)
+chrome    12457   charl   48u  IPv4 239974      0t0  UDP 192.168.88.10:50572->8.8.8.8:domain 
+cups-brow 26910    root    4u  IPv4 461400      0t0  UDP 192.168.88.10:43156->8.8.8.8:domain 
+chrome    12457   charl  139u  IPv4 1891996      0t0  TCP 192.168.88.10:38780->208.100.17.180:https (SYN_SENT)
+chrome    12457   charl  182u  IPv4 1897126      0t0  TCP 192.168.88.10:58602->104.244.39.20:https (ESTABLISHED)
+chrome    12457   charl   51u  IPv4 240613      0t0  UDP 192.168.88.10:54607->8.8.8.8:domain 
+chrome    12457   charl   78u  IPv4 1887004      0t0  TCP 192.168.88.10:32900->23.3.231.243:https (SYN_SENT)
+chrome    12457   charl  134u  IPv4 1933111      0t0  TCP 192.168.88.10:58640->104.244.39.20:https (SYN_SENT)
+chrome    12457   charl   34u  IPv4 237198      0t0  UDP 192.168.88.10:34045->8.8.8.8:domain 
+chrome    12457   charl   47u  IPv4 1798376      0t0  TCP 192.168.88.10:44258->37.221.195.178:https (SYN_SENT)
+chrome    12457   charl   38u  IPv4 1798365      0t0  TCP 192.168.88.10:44254->37.221.195.178:https (SYN_SENT)
+chrome    12457   charl   48u  IPv4 243403      0t0  TCP 192.168.88.10:57456->216.58.223.130:https (ESTABLISHED)
+chrome    12457   charl   60u  IPv4 1832131      0t0  TCP 192.168.88.10:46618->216.58.213.3:https (ESTABLISHED)
+chrome    12457   charl  144u  IPv4 1953604      0t0  TCP 192.168.88.10:50144->216.52.2.48:https (ESTABLISHED)
+chrome    12457   charl  135u  IPv4 1972290      0t0  TCP 192.168.88.10:35796->192.124.249.31:http (CLOSE_WAIT)
+chrome    12457   charl  109u  IPv4 2009707      0t0  TCP 192.168.88.10:38980->130.89.148.77:https (ESTABLISHED)
+chrome    12457   charl   50u  IPv4 1782735      0t0  TCP 192.168.88.10:44042->136.243.133.44:https (SYN_SENT)
+chrome    12457   charl  107u  IPv4 2012374      0t0  TCP 192.168.88.10:38978->130.89.148.77:https (SYN_SENT)
+chrome    12457   charl  127u  IPv4 1883066      0t0  TCP 192.168.88.10:41642->72.251.249.14:https (ESTABLISHED)
+chrome    12457   charl  217u  IPv4 1890220      0t0  TCP 192.168.88.10:51974->185.60.219.35:https (ESTABLISHED)
+chrome    12457   charl   66u  IPv4 242308      0t0  TCP 192.168.88.10:44682->108.177.15.156:https (ESTABLISHED)
+chrome    12457   charl  108u  IPv4 1952935      0t0  TCP 192.168.88.10:55838->213.254.244.15:https (CLOSE_WAIT)
+chrome    11505   charl  176u  IPv4 234414      0t0  UDP 224.0.0.251:mdns 
+chrome    12457   charl  153u  IPv4 1887817      0t0  TCP 192.168.88.10:55676->52.58.102.227:https (ESTABLISHED)
+chrome    12457   charl  112u  IPv4 1887548      0t0  UDP 192.168.88.10:35236->8.8.8.8:domain 
+chrome    12457   charl  218u  IPv4 1890221      0t0  TCP 192.168.88.10:35380->212.82.100.176:https (ESTABLISHED)
+chrome    12457   charl   23u  IPv4 221553      0t0  UDP 192.168.88.10:51741->8.8.8.8:domain 
+chrome    12457   charl  176u  IPv4 1888557      0t0  TCP 192.168.88.10:56290->104.94.95.5:https (SYN_SENT)
+chrome    12457   charl  198u  IPv4 1894685      0t0  TCP 192.168.88.10:46660->216.58.223.134:https (SYN_SENT)
+chrome    12457   charl  127u  IPv4 1883066      0t0  TCP 192.168.88.10:41642->72.251.249.14:https (SYN_SENT)
+chrome    12457   charl   96u  IPv4 1888387      0t0  TCP 192.168.88.10:51230->52.58.116.213:https (SYN_SENT)
+chrome    12457   charl  127u  IPv4 1883066      0t0  TCP 192.168.88.10:41642->72.251.249.14:https (CLOSE_WAIT)
+chrome    12457   charl  143u  IPv4 1888414      0t0  TCP 192.168.88.10:59562->185.33.220.243:https (CLOSE_WAIT)
+chrome    12457   charl   83u  IPv4 1950550      0t0  TCP 192.168.88.10:49020->2.18.0.23:https (CLOSE_WAIT)
+chrome    12457   charl   52u  IPv4 438558      0t0  UDP 192.168.88.10:57086->8.8.8.8:domain 
+chrome    12457   charl  137u  IPv4 1931059      0t0  TCP 192.168.88.10:58644->104.244.39.20:https (SYN_SENT)
+chrome    12457   charl  138u  IPv4 1953474      0t0  TCP 192.168.88.10:59534->52.28.254.214:https (SYN_SENT)
+chrome    12457   charl   63u  IPv4 1888413      0t0  TCP 192.168.88.10:59524->89.207.16.140:https (SYN_SENT)
+chrome  12457   charl   60u  IPv4 241939      0t0  TCP 192.168.88.10:49006->172.217.170.46:https (ESTABLISHED)
+chrome    12457   charl  181u  IPv4 1888566      0t0  TCP 192.168.88.10:45752->35.169.45.106:https (SYN_SENT)
+colord-sa  1411  colord   15u  IPv4 1705366      0t0  UDP *:59983 
+chrome    12457   charl  199u  IPv4 1889870      0t0  TCP 192.168.88.10:41076->34.250.65.236:https (SYN_SENT)
+chrome    12457   charl  138u  IPv4 1890333      0t0  TCP 192.168.88.10:43646->77.245.57.72:https (SYN_SENT)
+chrome    12457            charl   36u  IPv4 226808      0t0  TCP 192.168.88.10:60560->216.58.223.132:https (ESTABLISHED)
+chrome    12457   charl   64u  IPv4 1951976      0t0  TCP 192.168.88.10:34078->172.217.170.14:https (SYN_SENT)
+chrome    12457   charl   65u  IPv4 1818863      0t0  TCP 192.168.88.10:36496->208.66.56.118:https (ESTABLISHED)
+chrome    12457   charl  188u  IPv4 1894859      0t0  TCP 192.168.88.10:44972->13.224.78.45:https (ESTABLISHED)
+chrome    12457   charl   42u  IPv4 239916      0t0  TCP 192.168.88.10:55606->172.217.170.1:https (SYN_SENT)
+chrome    12457   charl  219u  IPv4 1891327      0t0  UDP 192.168.88.10:52356->8.8.8.8:domain 
+chrome    12457   charl   71u  IPv4 1882046      0t0  TCP 192.168.88.10:55130->143.204.19.71:https (ESTABLISHED)
+chrome    12457   charl   74u  IPv4 1882181      0t0  TCP 192.168.88.10:56108->172.217.170.2:https (ESTABLISHED)
+chrome    12457   charl   86u  IPv4 1883093      0t0  UDP 192.168.88.10:59755->8.8.8.8:domain 
+chrome    12457   charl   53u  IPv4 439800      0t0  UDP 192.168.88.10:43204->8.8.8.8:domain 
+chrome    12457   charl  136u  IPv4 1889334      0t0  TCP 192.168.88.10:50202->198.148.27.140:https (ESTABLISHED)
+chrome    12457   charl  243u  IPv4 1892029      0t0  TCP 192.168.88.10:45218->185.64.190.81:https (SYN_SENT)
+chrome  12457   charl   48u  IPv4 243403      0t0  TCP 192.168.88.10:57456->216.58.223.130:https (ESTABLISHED)
+chrome    12457   charl  115u  IPv4 1888256      0t0  TCP 192.168.88.10:50308->185.60.219.16:https (SYN_SENT)
+chrome    12457   charl   83u  IPv4 1888461      0t0  TCP 192.168.88.10:57112->67.202.110.23:https (SYN_SENT)
+chrome    12457   charl  145u  IPv4 1889861      0t0  TCP 192.168.88.10:52586->38.27.122.158:https (ESTABLISHED)
+chrome    12457   charl  133u  IPv4 1892031      0t0  UDP 192.168.88.10:55971->8.8.8.8:domain 
+systemd-t   415 systemd-timesync   12u  IPv4 539989      0t0  UDP 192.168.88.10:52887->8.8.8.8:domain 
+chrome    12457   charl   86u  IPv4 1952796      0t0  TCP 192.168.88.10:49022->2.18.0.23:https (SYN_SENT)
+chrome    12457            charl   39u  IPv4 236024      0t0  TCP 192.168.88.10:33522->172.217.170.14:https (ESTABLISHED)
+chrome    12457   charl  222u  IPv4 1891475      0t0  TCP 192.168.88.10:59828->69.173.144.165:https (CLOSE_WAIT)
+chrome    12457   charl   63u  IPv4 1888413      0t0  TCP 192.168.88.10:59524->89.207.16.140:https (ESTABLISHED)
+chrome    12457   charl   67u  IPv4 296945      0t0  UDP 192.168.88.10:51633->8.8.8.8:domain 
+chrome    12457   charl  134u  IPv4 1888410      0t0  TCP 192.168.88.10:35796->199.127.204.147:https (SYN_SENT)
+chrome    12457   charl  115u  IPv4 1955846      0t0  TCP 192.168.88.10:55840->213.254.244.15:https (CLOSE_WAIT)
+chrome    12457   charl   96u  IPv4 1996718      0t0  TCP 192.168.88.10:56820->51.89.240.37:https (ESTABLISHED)
+chrome    12457   charl   58u  IPv4 242453      0t0  TCP 192.168.88.10:47470->91.228.74.198:https (SYN_SENT)
+chrome    12457   charl   40u  IPv4 544109      0t0  TCP 192.168.88.10:46516->216.58.213.3:https (SYN_SENT)
+chrome    12457   charl  231u  IPv4 1894115      0t0  TCP 192.168.88.10:56648->54.179.29.174:https (SYN_SENT)
+chrome    12457   charl  131u  IPv4 1971890      0t0  TCP 192.168.88.10:35792->192.124.249.31:http (ESTABLISHED)
+chrome    12457   charl  113u  IPv4 2009529      0t0  UDP 192.168.88.10:40554->8.8.8.8:domain 
+chrome    12457   charl   54u  IPv4 1968938      0t0  TCP 192.168.88.10:46610->213.254.244.17:https (CLOSE_WAIT)
+chrome  11505   charl  176u  IPv4 234414      0t0  UDP 224.0.0.251:mdns 
+chrome    12457   charl  113u  IPv4 1970899      0t0  UDP 192.168.88.10:47524->8.8.8.8:domain 
+chrome    12457   charl  134u  IPv4 1955021      0t0  TCP 192.168.88.10:56218->69.173.144.138:https (CLOSE_WAIT)
+chrome    12457   charl  181u  IPv4 1888566      0t0  TCP 192.168.88.10:45752->35.169.45.106:https (CLOSE_WAIT)
+chrome    12457            charl   23u  IPv4 221103      0t0  TCP 192.168.88.10:41430->172.217.170.67:https (ESTABLISHED)
+chrome    12457   charl   47u  IPv4 241712      0t0  TCP 192.168.88.10:55616->172.217.170.1:https (ESTABLISHED)
+chrome    12457   charl   47u  IPv4 1881325      0t0  TCP 192.168.88.10:45922->151.139.128.11:https (ESTABLISHED)
+chrome    12457   charl  114u  IPv4 1885108      0t0  UDP 192.168.88.10:59673->8.8.8.8:domain 
+chrome    12457   charl   91u  IPv4 1882401      0t0  UDP 192.168.88.10:52820->8.8.8.8:domain 
+chrome    12457   charl  142u  IPv4 1890824      0t0  TCP 192.168.88.10:57010->8.43.72.97:https (ESTABLISHED)
+chrome    12457   charl  174u  IPv4 1888666      0t0  TCP 192.168.88.10:57886->104.75.209.225:https (CLOSE_WAIT)
+chrome    12457   charl   79u  IPv4 1799626      0t0  TCP 192.168.88.10:44264->37.221.195.178:https (ESTABLISHED)
+chrome    12457   charl   75u  IPv4 305440      0t0  TCP 192.168.88.10:56142->172.217.170.66:https (ESTABLISHED)
+chrome    12457   charl   41u  IPv4 1946604      0t0  UDP 192.168.88.10:60093->8.8.8.8:domain 
+chrome    12457   charl  154u  IPv4 1889399      0t0  TCP 192.168.88.10:33198->52.95.123.41:https (ESTABLISHED)
+chrome  12457   charl   59u  IPv4 245891      0t0  TCP 192.168.88.10:42182->172.217.170.65:https (ESTABLISHED)
+chrome    12457   charl  231u  IPv4 1894115      0t0  TCP 192.168.88.10:56648->54.179.29.174:https (ESTABLISHED)
+chrome    12457   charl   48u  IPv4 1948147      0t0  TCP 192.168.88.10:57400->216.58.223.131:https (ESTABLISHED)
+chrome    12457   charl  192u  IPv4 1889862      0t0  TCP 192.168.88.10:53670->185.29.135.42:https (ESTABLISHED)
+chrome    12457   charl   93u  IPv4 1883054      0t0  TCP 192.168.88.10:32906->23.3.231.243:https (CLOSE_WAIT)
+chrome  12457   charl   46u  IPv4 241078      0t0  TCP 192.168.88.10:57104->151.101.1.69:https (ESTABLISHED)
+chrome  12457   charl   62u  IPv4 250075      0t0  TCP 192.168.88.10:37530->104.92.151.165:https (ESTABLISHED)
+chrome  12457   charl   37u  IPv4 299389      0t0  TCP 192.168.88.10:34936->172.217.170.3:https (ESTABLISHED)
+chrome    12457   charl  166u  IPv4 1887859      0t0  TCP 192.168.88.10:33214->52.95.123.41:https (SYN_SENT)
+chrome    12457   charl   95u  IPv4 1998836      0t0  TCP 192.168.88.10:56822->51.89.240.37:https (ESTABLISHED)
+chrome  12457   charl   47u  IPv4 241712      0t0  TCP 192.168.88.10:55616->172.217.170.1:https (ESTABLISHED)
+chrome    12457   charl  130u  IPv4 1887753      0t0  UDP 192.168.88.10:48053->8.8.8.8:domain 
+chrome    12457   charl   45u  IPv4 235431      0t0  UDP 192.168.88.10:49235->8.8.8.8:domain 
+chrome    12457   charl  159u  IPv4 1890421      0t0  TCP 192.168.88.10:59578->185.33.220.243:https (ESTABLISHED)
+chrome    12457   charl  162u  IPv4 1888462      0t0  TCP 192.168.88.10:55518->18.156.0.31:https (SYN_SENT)
+chrome    12457   charl  200u  IPv4 1893254      0t0  TCP 192.168.88.10:52270->64.233.166.155:https (ESTABLISHED)
+chrome    12457   charl  138u  IPv4 1890333      0t0  TCP 192.168.88.10:43646->77.245.57.72:https (ESTABLISHED)
+chrome  12457   charl   73u  IPv4 302440      0t0  TCP 192.168.88.10:37584->173.194.128.232:http (CLOSE_WAIT)
+chrome    12457   charl   62u  IPv4 250075      0t0  TCP 192.168.88.10:37530->104.92.151.165:https (ESTABLISHED)
+chrome    12457   charl   40u  IPv4 544109      0t0  TCP 192.168.88.10:46516->216.58.213.3:https (CLOSE_WAIT)
+chrome    12457   charl   44u  IPv4 1800601      0t0  TCP 192.168.88.10:35746->216.58.212.234:https (ESTABLISHED)
+chrome    12457   charl   53u  IPv4 440132      0t0  UDP 192.168.88.10:57058->8.8.8.8:domain 
+chrome    12457   charl  164u  IPv4 1953759      0t0  TCP 192.168.88.10:46570->213.254.244.17:https (SYN_SENT)
+chrome    12457   charl   72u  IPv4 300932      0t0  TCP 192.168.88.10:32882->216.58.223.142:http (ESTABLISHED)
+chrome    12457   charl   60u  IPv4 1832131      0t0  TCP 192.168.88.10:46618->216.58.213.3:https (SYN_SENT)
+chrome    12457   charl  104u  IPv4 1932393      0t0  UDP 192.168.88.10:49513->8.8.8.8:domain 
+chrome    12457            charl   74u  IPv4 302503      0t0  TCP 192.168.88.10:40124->216.58.223.144:https (ESTABLISHED)
+cups-brow 26910    root    7u  IPv4 461410      0t0  UDP *:ipp 
+chrome    12457   charl  139u  IPv4 1953603      0t0  TCP 192.168.88.10:45674->34.242.137.98:https (SYN_SENT)
+chrome    12457   charl   65u  IPv4 1818863      0t0  TCP 192.168.88.10:36496->208.66.56.118:https (SYN_SENT)
+chrome    12457   charl  130u  IPv4 1890656      0t0  UDP 192.168.88.10:39028->8.8.8.8:domain 
+chrome    12457   charl   27u  IPv4 835777      0t0  TCP 192.168.88.10:36366->172.217.20.131:https (CLOSE_WAIT)
+chrome    12457   charl  111u  IPv4 1954016      0t0  TCP 192.168.88.10:36106->199.127.204.147:https (ESTABLISHED)
+chrome    12457   charl  163u  IPv4 1955485      0t0  TCP 192.168.88.10:47524->185.64.189.110:https (ESTABLISHED)
+chrome    12457   charl  110u  IPv4 1933724      0t0  TCP 192.168.88.10:42466->46.137.152.93:https (CLOSE_WAIT)
+chrome    12457   charl  173u  IPv4 1888529      0t0  TCP 192.168.88.10:40510->159.253.128.188:https (SYN_SENT)
+chrome  12457   charl   67u  IPv4 301202      0t0  TCP 192.168.88.10:56064->172.217.170.35:https (ESTABLISHED)
+chrome    12457   charl   57u  IPv4 1800591      0t0  TCP 192.168.88.10:44260->37.221.195.178:https (ESTABLISHED)
+chrome    12457   charl  190u  IPv4 1888775      0t0  TCP 192.168.88.10:54976->35.244.245.222:https (ESTABLISHED)
+chrome    12457   charl  159u  IPv4 1973357      0t0  TCP 192.168.88.10:35050->136.144.49.28:https (ESTABLISHED)
+chrome    12457   charl   97u  IPv4 1888396      0t0  UDP 192.168.88.10:55788->8.8.8.8:domain 
+chrome    12457   charl  209u  IPv4 1891389      0t0  TCP 192.168.88.10:53434->104.18.12.5:https (ESTABLISHED)
+chrome    12457   charl  182u  IPv4 1896119      0t0  TCP 192.168.88.10:46206->151.139.128.11:https (ESTABLISHED)
+chrome    12457   charl   76u  IPv4 303300      0t0  UDP 192.168.88.10:40702->8.8.8.8:domain 
+chrome    12457   charl  184u  IPv4 1888569      0t0  TCP 192.168.88.10:58054->18.159.90.169:https (ESTABLISHED)
+chrome    12457   charl  111u  IPv4 1952744      0t0  UDP 192.168.88.10:48560->8.8.8.8:domain 
+chrome    12457   charl   53u  IPv4 440774      0t0  TCP 192.168.88.10:48346->198.252.206.25:https (SYN_SENT)
+chrome    12457   charl   95u  IPv4 1955976      0t0  TCP 192.168.88.10:44416->199.127.204.142:https (SYN_SENT)
+chrome    12457   charl  108u  IPv4 1958340      0t0  TCP 192.168.88.10:34668->54.204.100.122:https (ESTABLISHED)
+chrome    12457   charl   84u  IPv4 1890418      0t0  UDP 192.168.88.10:53862->8.8.8.8:domain 
+chrome    12457   charl  112u  IPv4 1892424      0t0  TCP 192.168.88.10:37272->104.75.211.74:https (ESTABLISHED)
+chrome    12457   charl  134u  IPv4 1955021      0t0  TCP 192.168.88.10:56218->69.173.144.138:https (SYN_SENT)
+chrome    12457   charl   44u  IPv4 1782733      0t0  TCP 192.168.88.10:44038->136.243.133.44:https (SYN_SENT)
+chrome    12457   charl   45u  IPv4 1789206      0t0  TCP 192.168.88.10:40152->216.58.223.106:https (SYN_SENT)
+chrome    12457   charl   39u  IPv4 228333      0t0  UDP 192.168.88.10:47713->8.8.8.8:domain 
+colord-sa  1411  colord   14u  IPv4 1705245      0t0  UDP 172.17.0.1:8612 
+chrome    12457   charl   65u  IPv4 1822223      0t0  TCP 192.168.88.10:36508->208.66.56.118:https (SYN_SENT)
+chrome    12457   charl  151u  IPv4 1893298      0t0  TCP 192.168.88.10:49802->46.228.164.11:https (ESTABLISHED)
+chrome    12457   charl  236u  IPv4 1897132      0t0  TCP 192.168.88.10:58608->104.244.39.20:https (SYN_SENT)
+chrome    12457   charl   91u  IPv4 1933380      0t0  TCP 192.168.88.10:39834->69.173.144.154:https (ESTABLISHED)
+chrome    12457   charl   40u  IPv4 2023799      0t0  UDP 192.168.88.10:37004->8.8.8.8:domain 
+chrome    12457   charl  236u  IPv4 1897132      0t0  TCP 192.168.88.10:58608->104.244.39.20:https (ESTABLISHED)
+chrome    12457   charl  139u  IPv4 1953603      0t0  TCP 192.168.88.10:45674->34.242.137.98:https (ESTABLISHED)
+chrome    12457   charl  149u  IPv4 1893903      0t0  TCP 192.168.88.10:38778->208.100.17.180:https (SYN_SENT)
+chrome    12457   charl   49u  IPv4 437940      0t0  UDP 192.168.88.10:42157->8.8.8.8:domain 
+chrome    12457   charl   66u  IPv4 1798914      0t0  UDP 192.168.88.10:41006->8.8.8.8:domain 
+chrome    12457   charl   62u  IPv4 250075      0t0  TCP 192.168.88.10:37530->104.92.151.165:https (SYN_SENT)
+chrome    12457   charl  179u  IPv4 1891447      0t0  TCP 192.168.88.10:46238->3.220.190.7:https (CLOSE_WAIT)
+chrome    12457   charl  168u  IPv4 1960044      0t0  TCP 192.168.88.10:58244->185.94.180.126:https (SYN_SENT)
+chrome    12457   charl   64u  IPv4 242468      0t0  TCP 192.168.88.10:47472->91.228.74.198:https (SYN_SENT)
+chrome    12457   charl  142u  IPv4 1932055      0t0  TCP 192.168.88.10:58648->104.244.39.20:https (ESTABLISHED)
+chrome    12457   charl   27u  IPv4 224325      0t0  UDP 192.168.88.10:42813->8.8.8.8:domain 
+chrome    12457   charl  205u  IPv4 1890222      0t0  TCP 192.168.88.10:50760->54.221.123.110:https (ESTABLISHED)
+chrome    12457   charl  162u  IPv4 1956549      0t0  TCP 192.168.88.10:58026->149.20.4.15:https (SYN_SENT)
+chrome    12457            charl   55u  IPv4 244040      0t0  TCP 192.168.88.10:38584->172.217.170.10:https (ESTABLISHED)
+chrome    12457   charl  206u  IPv4 1890184      0t0  TCP 192.168.88.10:60536->150.136.26.45:https (ESTABLISHED)
+chrome    12457   charl  211u  IPv4 1890181      0t0  TCP 192.168.88.10:34290->54.36.172.109:https (CLOSE_WAIT)
+chrome    12457            charl   41u  IPv4 240489      0t0  TCP 192.168.88.10:58174->192.0.73.2:https (ESTABLISHED)
+chrome    12457   charl  131u  IPv4 1890822      0t0  TCP 192.168.88.10:57008->8.43.72.97:https (SYN_SENT)
+chrome    12457   charl  131u  IPv4 1930997      0t0  TCP 192.168.88.10:58634->104.244.39.20:https (SYN_SENT)
+chrome    12457   charl  136u  IPv4 1953438      0t0  TCP 192.168.88.10:32828->23.50.177.161:https (SYN_SENT)
+chrome    12457   charl   94u  IPv4 1883055      0t0  TCP 192.168.88.10:48140->192.132.33.46:https (SYN_SENT)
+chrome    12457   charl   47u  IPv4 2074136      0t0  TCP 192.168.88.10:49718->172.217.170.46:https (ESTABLISHED)
+chrome    12457   charl   77u  IPv4 304450      0t0  TCP 192.168.88.10:57520->142.250.102.188:https (SYN_SENT)
+chrome    12457   charl  150u  IPv4 1889375      0t0  UDP 192.168.88.10:57584->8.8.8.8:domain 
+chrome    12457   charl   54u  IPv4 1951975      0t0  TCP 192.168.88.10:34076->172.217.170.14:https (SYN_SENT)
+chrome    11505   charl  176u  IPv4  234414      0t0  UDP 224.0.0.251:mdns 
+chrome    12457   charl  191u  IPv4 1891896      0t0  TCP 192.168.88.10:57978->104.75.209.225:https (ESTABLISHED)
+chrome    12457   charl   76u  IPv4 303442      0t0  TCP 192.168.88.10:56144->172.217.170.66:https (ESTABLISHED)
+chrome    12457   charl   64u  IPv4 1957736      0t0  TCP 192.168.88.10:46578->2.18.3.250:https (ESTABLISHED)
+chrome    12457   charl   75u  IPv4 1883016      0t0  TCP 192.168.88.10:48130->192.132.33.46:https (ESTABLISHED)
+chrome    12457   charl  206u  IPv4 1890184      0t0  TCP 192.168.88.10:60536->150.136.26.45:https (SYN_SENT)
+chrome    12457   charl   49u  IPv4 1818239      0t0  TCP 192.168.88.10:36492->208.66.56.118:https (SYN_SENT)
+chrome    12457   charl  108u  IPv4 1894541      0t0  TCP 192.168.88.10:52284->64.233.166.155:https (SYN_SENT)
+chrome    12457   charl  226u  IPv4 1897758      0t0  UDP 192.168.88.10:44764->8.8.8.8:domain 
+chrome    12457   charl   35u  IPv4 233052      0t0  TCP 192.168.88.10:48976->172.217.170.46:https (ESTABLISHED)
+chrome    12457   charl  163u  IPv4 1888463      0t0  TCP 192.168.88.10:55690->52.58.102.227:https (ESTABLISHED)
+chrome    12457   charl  111u  IPv4 1891392      0t0  TCP 192.168.88.10:59782->69.173.144.165:https (ESTABLISHED)
+chrome    12457   charl  221u  IPv4 1891472      0t0  TCP 192.168.88.10:46266->3.220.190.7:https (SYN_SENT)
+chrome    12457   charl  109u  IPv4 1883102      0t0  TCP 192.168.88.10:40048->18.195.155.181:https (ESTABLISHED)
+chrome    12457   charl  190u  IPv4 1890789      0t0  UDP 192.168.88.10:51611->8.8.8.8:domain 
+chrome    12457   charl   37u  IPv4 1773862      0t0  TCP 192.168.88.10:34978->172.217.170.3:https (ESTABLISHED)
+chrome    12457   charl  216u  IPv4 1890219      0t0  TCP 192.168.88.10:46182->89.207.16.137:https (SYN_SENT)
+chrome    12457   charl  164u  IPv4 1953759      0t0  TCP 192.168.88.10:46570->213.254.244.17:https (ESTABLISHED)
+chrome    12457   charl  172u  IPv4 1957578      0t0  TCP 192.168.88.10:34766->154.57.158.51:https (ESTABLISHED)
+chrome    12457   charl  141u  IPv4 1969974      0t0  TCP 192.168.88.10:47466->194.71.11.173:https (ESTABLISHED)
+chrome    12457   charl  219u  IPv4 1892426      0t0  TCP 192.168.88.10:38678->18.235.226.14:https (SYN_SENT)
+chrome    12457   charl  224u  IPv4 1896121      0t0  TCP 192.168.88.10:46210->151.139.128.11:https (ESTABLISHED)
+chrome    12457   charl   57u  IPv4 1800591      0t0  TCP 192.168.88.10:44260->37.221.195.178:https (SYN_SENT)
+chrome    12457   charl   86u  IPv4 1952796      0t0  TCP 192.168.88.10:49022->2.18.0.23:https (ESTABLISHED)
+chrome    12457   charl  141u  IPv4 1969974      0t0  TCP 192.168.88.10:47466->194.71.11.173:https (SYN_SENT)
+chrome    12457   charl  110u  IPv4 1933724      0t0  TCP 192.168.88.10:42466->46.137.152.93:https (ESTABLISHED)
+COMMAND     PID             USER   FD   TYPE  DEVICE SIZE/OFF NODE NAME
+chrome    12457   charl  186u  IPv4 1891468      0t0  TCP 192.168.88.10:50768->54.221.123.110:https (SYN_SENT)
+cups-brow 26910    root    7u  IPv4  461410      0t0  UDP *:ipp 
+chrome    12457   charl  136u  IPv4 1954375      0t0  UDP 192.168.88.10:42519->8.8.8.8:domain 
+chrome    12457   charl   60u  IPv4 241939      0t0  TCP 192.168.88.10:49006->172.217.170.46:https (ESTABLISHED)
+chrome    12457            charl   77u  IPv4  304450      0t0  TCP 192.168.88.10:57520->142.250.102.188:https (ESTABLISHED)
+chrome    12457   charl   37u  IPv4 1869053      0t0  TCP 192.168.88.10:45546->172.217.170.78:https (ESTABLISHED)
+chrome    12457   charl  194u  IPv4 1891205      0t0  TCP 192.168.88.10:39492->77.243.60.138:https (ESTABLISHED)
+chrome    12457   charl   95u  IPv4 1955976      0t0  TCP 192.168.88.10:44416->199.127.204.142:https (ESTABLISHED)
+chrome    12457            charl   59u  IPv4 245891      0t0  TCP 192.168.88.10:42182->172.217.170.65:https (ESTABLISHED)
+chrome    12457   charl   27u  IPv4 835777      0t0  TCP 192.168.88.10:36366->172.217.20.131:https (ESTABLISHED)
+chrome    12457   charl  135u  IPv4 1931055      0t0  TCP 192.168.88.10:58642->104.244.39.20:https (SYN_SENT)
+systemd-t   415 systemd-timesync   12u  IPv4 1602220      0t0  UDP 192.168.88.10:58222->8.8.8.8:domain 
+chrome    12457   charl   95u  IPv4 1970907      0t0  TCP 192.168.88.10:47458->194.71.11.173:https (SYN_SENT)
+chrome    12457   charl   69u  IPv4 255818      0t0  TCP 192.168.88.10:40600->216.58.223.129:https (SYN_SENT)
+cupsd     26909             root    6u  IPv4 463191      0t0  TCP 127.0.0.1:ipp (LISTEN)
+chrome    12457   charl   93u  IPv4 1969836      0t0  TCP 192.168.88.10:51664->52.58.116.213:https (SYN_SENT)
+chrome    12457   charl  111u  IPv4 1958558      0t0  UDP 192.168.88.10:59196->8.8.8.8:domain 
+chrome    12457   charl  243u  IPv4 1892029      0t0  TCP 192.168.88.10:45218->185.64.190.81:https (ESTABLISHED)
+chrome    12457   charl  232u  IPv4 1893296      0t0  TCP 192.168.88.10:49800->46.228.164.11:https (ESTABLISHED)
+chrome    12457            charl   43u  IPv4 241569      0t0  TCP 192.168.88.10:35704->104.16.31.34:https (ESTABLISHED)
+chrome    12457   charl   66u  IPv4 1878782      0t0  UDP 192.168.88.10:34155->8.8.8.8:domain 
+chrome    12457   charl  109u  IPv4 1888526      0t0  TCP 192.168.88.10:40104->18.195.155.181:https (SYN_SENT)
+chrome    12457   charl  129u  IPv4 1969876      0t0  UDP 192.168.88.10:50596->8.8.8.8:domain 
+chrome  12457   charl   39u  IPv4 236024      0t0  TCP 192.168.88.10:33522->172.217.170.14:https (ESTABLISHED)
+chrome    12457   charl   86u  IPv4 1892752      0t0  TCP 192.168.88.10:38680->18.235.226.14:https (SYN_SENT)
+chrome    12457   charl  205u  IPv4 1891230      0t0  UDP 192.168.88.10:41399->8.8.8.8:domain 
+chrome    12457   charl  159u  IPv4 1953728      0t0  TCP 192.168.88.10:46568->213.254.244.17:https (SYN_SENT)
+avahi-dae   688   avahi   12u  IPv4  19902      0t0  UDP *:mdns 
+chrome    12457   charl  182u  IPv4 1888567      0t0  TCP 192.168.88.10:39116->51.178.20.139:https (SYN_SENT)
+chrome    12457   charl  144u  IPv4 1953604      0t0  TCP 192.168.88.10:50144->216.52.2.48:https (CLOSE_WAIT)
+chrome    12457   charl   46u  IPv4 1798366      0t0  TCP 192.168.88.10:44256->37.221.195.178:https (CLOSE_WAIT)
+chrome    12457   charl   37u  IPv4 226915      0t0  UDP 192.168.88.10:40841->8.8.8.8:domain 
+chrome    12457   charl   67u  IPv4 243702      0t0  UDP 192.168.88.10:48865->8.8.8.8:domain 
+chrome    12457   charl  100u  IPv4 1889713      0t0  UDP 192.168.88.10:33924->8.8.8.8:domain 
+chrome    12457   charl  112u  IPv4 1891394      0t0  UDP 192.168.88.10:43402->8.8.8.8:domain 
+chrome    12457   charl  155u  IPv4 1888527      0t0  TCP 192.168.88.10:45738->35.169.45.106:https (SYN_SENT)
+chrome    12457   charl  175u  IPv4 1958674      0t0  TCP 192.168.88.10:55448->18.207.146.85:https (SYN_SENT)
+chrome    12457   charl  175u  IPv4 1958674      0t0  TCP 192.168.88.10:55448->18.207.146.85:https (ESTABLISHED)
+avahi-dae 688   avahi   13u  IPv6  19903      0t0  UDP *:mdns 
+chrome    12457   charl  214u  IPv4 1891448      0t0  TCP 192.168.88.10:56472->208.100.17.184:https (ESTABLISHED)
+chrome    12457   charl   38u  IPv4 1781251      0t0  UDP 192.168.88.10:39630->8.8.8.8:domain 
+chrome    12457            charl   63u  IPv4 242306      0t0  TCP 192.168.88.10:44680->108.177.15.156:https (ESTABLISHED)
+chrome    12457   charl   62u  IPv4 244774      0t0  UDP 192.168.88.10:45971->8.8.8.8:domain 
+chrome    12457   charl   36u  IPv4 228202      0t0  UDP 192.168.88.10:60281->8.8.8.8:domain 
+mongod      738          mongodb   11u  IPv4  21444      0t0  TCP 127.0.0.1:27017 (LISTEN)
+chrome    12457   charl  104u  IPv4 2003024      0t0  TCP 192.168.88.10:56824->51.89.240.37:https (SYN_SENT)
+chrome    12457   charl  197u  IPv4 1893160      0t0  UDP 192.168.88.10:39608->8.8.8.8:domain 
+chrome    12457   charl   48u  IPv4 1800608      0t0  TCP 192.168.88.10:35748->216.58.212.234:https (ESTABLISHED)
+chrome    12457   charl   47u  IPv4 1781390      0t0  TCP 192.168.88.10:44036->136.243.133.44:https (ESTABLISHED)
+chrome    12457   charl  175u  IPv4 1891467      0t0  TCP 192.168.88.10:46194->89.207.16.137:https (SYN_SENT)
+chrome    12457   charl  183u  IPv4 1888568      0t0  TCP 192.168.88.10:40524->159.253.128.188:https (SYN_SENT)
+chrome    12457   charl  163u  IPv4 1955485      0t0  TCP 192.168.88.10:47524->185.64.189.110:https (SYN_SENT)
+chrome    12457   charl   38u  IPv4 1783470      0t0  TCP 192.168.88.10:44032->136.243.133.44:https (ESTABLISHED)
+chrome    12457   charl  196u  IPv4 1892007      0t0  TCP 192.168.88.10:37894->2.17.205.20:https (SYN_SENT)
+COMMAND     PID    USER   FD   TYPE DEVICE SIZE/OFF NODE NAME
+chrome    12457   charl  152u  IPv4 1888423      0t0  TCP 192.168.88.10:43446->104.75.214.62:https (ESTABLISHED)
+chrome    12457   charl  108u  IPv4 1952935      0t0  TCP 192.168.88.10:55838->213.254.244.15:https (ESTABLISHED)
+chrome    12457   charl  215u  IPv4 1891473      0t0  TCP 192.168.88.10:59824->69.173.144.165:https (SYN_SENT)
+chrome    12457   charl   92u  IPv4 1883086      0t0  UDP 192.168.88.10:34823->8.8.8.8:domain 
+chrome    12457            charl   27u  IPv4 222921      0t0  TCP 192.168.88.10:55150->216.58.223.138:https (ESTABLISHED)
+chrome    12457   charl   65u  IPv4 1882305      0t0  TCP 192.168.88.10:34960->13.224.78.80:https (ESTABLISHED)
+chrome    12457   charl  145u  IPv4 1889861      0t0  TCP 192.168.88.10:52586->38.27.122.158:https (SYN_SENT)
+chrome    12457   charl  121u  IPv4 1930519      0t0  TCP 192.168.88.10:43550->3.122.26.150:https (ESTABLISHED)
+chrome    12457   charl   52u  IPv4 439893      0t0  UDP 192.168.88.10:60576->8.8.8.8:domain 
+chrome    12457   charl  115u  IPv4 1955846      0t0  TCP 192.168.88.10:55840->213.254.244.15:https (ESTABLISHED)
+chrome    12457   charl  153u  IPv4 1953692      0t0  TCP 192.168.88.10:58024->149.20.4.15:https (ESTABLISHED)
+chrome    12457   charl   43u  IPv4 1779761      0t0  TCP 192.168.88.10:47886->172.217.170.34:https (SYN_SENT)
+chrome    12457   charl  160u  IPv4 1888449      0t0  TCP 192.168.88.10:39522->3.222.179.110:https (ESTABLISHED)
+chrome    12457            charl   40u  IPv4 544109      0t0  TCP 192.168.88.10:46516->216.58.213.3:https (ESTABLISHED)
+chrome  12457   charl   74u  IPv4 302503      0t0  TCP 192.168.88.10:40124->216.58.223.144:https (ESTABLISHED)
+chrome    12457   charl   54u  IPv4 244136      0t0  TCP 192.168.88.10:42180->172.217.170.65:https (ESTABLISHED)
+chrome    12457   charl   38u  IPv4 1798365      0t0  TCP 192.168.88.10:44254->37.221.195.178:https (ESTABLISHED)
+chrome    12457   charl   62u  IPv4 1799852      0t0  UDP 192.168.88.10:59387->8.8.8.8:domain 
+chrome    12457   charl  134u  IPv4 1933111      0t0  TCP 192.168.88.10:58640->104.244.39.20:https (CLOSE_WAIT)
+chrome    12457   charl  138u  IPv4 1954418      0t0  UDP 192.168.88.10:54120->8.8.8.8:domain 
+chrome    12457   charl  122u  IPv4 1891458      0t0  TCP 192.168.88.10:58058->52.94.232.32:https (SYN_SENT)
+chrome    12457   charl  169u  IPv4 1959371      0t0  TCP 192.168.88.10:34670->54.204.100.122:https (CLOSE_WAIT)
+chrome    12457   charl   59u  IPv4 1799623      0t0  TCP 192.168.88.10:44262->37.221.195.178:https (ESTABLISHED)
+chrome    12457   charl   74u  IPv4 302503      0t0  TCP 192.168.88.10:40124->216.58.223.144:https (SYN_SENT)
+chrome    12457   charl   64u  IPv4 1818819      0t0  TCP 192.168.88.10:36494->208.66.56.118:https (ESTABLISHED)
+chrome  12457   charl   32u  IPv4 225537      0t0  TCP 192.168.88.10:50442->172.217.170.77:https (ESTABLISHED)
+chrome    12457   charl  194u  IPv4 1891205      0t0  TCP 192.168.88.10:39492->77.243.60.138:https (CLOSE_WAIT)
+chrome    12457   charl  111u  IPv4 2010268      0t0  UDP 192.168.88.10:49454->8.8.8.8:domain 
+chrome    12457   charl   72u  IPv4 300932      0t0  TCP 192.168.88.10:32882->216.58.223.142:http (CLOSE_WAIT)
+chrome    12457   charl   92u  IPv4 1887792      0t0  UDP 192.168.88.10:37281->8.8.8.8:domain 
+chrome    12457   charl   54u  IPv4 1968938      0t0  TCP 192.168.88.10:46610->213.254.244.17:https (SYN_SENT)
+chrome    12457   charl   32u  IPv4 544978      0t0  TCP 192.168.88.10:46514->216.58.213.3:https (SYN_SENT)
+chrome    12457   charl  144u  IPv4 1888973      0t0  TCP 192.168.88.10:58070->52.94.232.32:https (SYN_SENT)
+chrome    12457            charl   38u  IPv4 233048      0t0  TCP 192.168.88.10:57430->216.58.223.130:https (ESTABLISHED)
+chrome    12457   charl   32u  IPv4 1767701      0t0  TCP 192.168.88.10:60664->216.58.223.132:https (ESTABLISHED)
+chrome    12457   charl  196u  IPv4 1892007      0t0  TCP 192.168.88.10:37894->2.17.205.20:https (ESTABLISHED)
+chrome    12457   charl  109u  IPv4 1883102      0t0  TCP 192.168.88.10:40048->18.195.155.181:https (SYN_SENT)
+chrome    12457   charl  213u  IPv4 1891474      0t0  TCP 192.168.88.10:59826->69.173.144.165:https (ESTABLISHED)
+chrome    12457   charl  114u  IPv4 1883087      0t0  TCP 192.168.88.10:43626->77.245.57.72:https (CLOSE_WAIT)
+chrome    12457   charl   77u  IPv4  304450      0t0  TCP 192.168.88.10:57520->142.250.102.188:https (ESTABLISHED)
+chrome    12457   charl  213u  IPv4 1891474      0t0  TCP 192.168.88.10:59826->69.173.144.165:https (SYN_SENT)
+chrome    12457   charl  153u  IPv4 1970956      0t0  TCP 192.168.88.10:50504->185.86.139.115:https (SYN_SENT)
+chrome    12457   charl  154u  IPv4 1958939      0t0  TCP 192.168.88.10:36804->52.5.116.44:https (SYN_SENT)
+chrome    12457   charl   89u  IPv4 1884375      0t0  UDP 192.168.88.10:39492->8.8.8.8:domain 
+chrome    12457   charl  158u  IPv4 1891242      0t0  TCP 192.168.88.10:56468->208.100.17.184:https (SYN_SENT)
+chrome    12457            charl   45u  IPv4 239591      0t0  TCP 192.168.88.10:47782->172.217.170.34:https (ESTABLISHED)
+chrome    12457   charl  133u  IPv4 1894537      0t0  TCP 192.168.88.10:37918->2.17.205.20:https (ESTABLISHED)
+chrome    12457   charl  129u  IPv4 1946194      0t0  UDP 192.168.88.10:34493->8.8.8.8:domain 
+chrome    12457   charl  108u  IPv4 1952935      0t0  TCP 192.168.88.10:55838->213.254.244.15:https (SYN_SENT)
+chrome    12457   charl  194u  IPv4 1891205      0t0  TCP 192.168.88.10:39492->77.243.60.138:https (SYN_SENT)
+chrome    12457   charl   46u  IPv4 1875227      0t0  UDP 192.168.88.10:55869->8.8.8.8:domain 
+chrome    12457   charl   40u  IPv4 240819      0t0  TCP 192.168.88.10:41448->172.217.170.67:https (ESTABLISHED)
+chrome    12457   charl   49u  IPv4 1830336      0t0  UDP 192.168.88.10:52300->8.8.8.8:domain 
+chrome    12457   charl  146u  IPv4 1957348      0t0  TCP 192.168.88.10:41838->18.158.221.94:https (SYN_SENT)
+chrome    12457   charl  131u  IPv4 1890822      0t0  TCP 192.168.88.10:57008->8.43.72.97:https (CLOSE_WAIT)
+chrome    12457   charl  144u  IPv4 1969975      0t0  TCP 192.168.88.10:47468->194.71.11.173:https (ESTABLISHED)
+chrome    12457   charl  170u  IPv4 1889759      0t0  UDP 192.168.88.10:56349->8.8.8.8:domain 
+colord-sa 29104  colord   15u  IPv4 2234660      0t0  UDP *:58992 
+chrome    12457   charl  131u  IPv4 1930997      0t0  TCP 192.168.88.10:58634->104.244.39.20:https (ESTABLISHED)
+chrome    12457            charl   71u  IPv4 260114      0t0  TCP 192.168.88.10:55948->172.217.170.2:https (ESTABLISHED)
+chrome    12457   charl   47u  IPv4 1781390      0t0  TCP 192.168.88.10:44036->136.243.133.44:https (CLOSE_WAIT)
+chrome    12457   charl   94u  IPv4 1952934      0t0  TCP 192.168.88.10:50066->116.202.172.174:https (SYN_SENT)
+chrome    12457   charl   38u  IPv4 1800262      0t0  UDP 192.168.88.10:49212->8.8.8.8:domain 
+chrome    12457   charl  177u  IPv4 1897125      0t0  TCP 192.168.88.10:58600->104.244.39.20:https (CLOSE_WAIT)
+chrome    12457   charl   40u  IPv4 239721      0t0  UDP 192.168.88.10:39492->8.8.8.8:domain 
+chrome    12457   charl  226u  IPv4 1896171      0t0  UDP 192.168.88.10:47786->8.8.8.8:domain 
+chrome    12457   charl  251u  IPv4 1893209      0t0  UDP 192.168.88.10:39514->8.8.8.8:domain 
+chrome    12457   charl  137u  IPv4 1972025      0t0  TCP 192.168.88.10:59988->185.33.220.243:https (ESTABLISHED)
+chrome    12457   charl   77u  IPv4 304450      0t0  TCP 192.168.88.10:57520->142.250.102.188:https (ESTABLISHED)
+chrome    12457   charl  212u  IPv4 1888921      0t0  UDP 192.168.88.10:35850->8.8.8.8:domain 
+chrome    12457   charl  166u  IPv4 1887859      0t0  TCP 192.168.88.10:33214->52.95.123.41:https (ESTABLISHED)
+chrome    12457   charl   96u  IPv4 1969800      0t0  TCP 192.168.88.10:50012->46.228.164.11:https (ESTABLISHED)
+chrome    12457   charl   64u  IPv4 1878727      0t0  UDP 192.168.88.10:49604->8.8.8.8:domain 
+chrome    12457   charl   58u  IPv4 1798912      0t0  TCP 192.168.88.10:55320->216.58.223.138:https (ESTABLISHED)
+chrome    12457   charl   92u  IPv4 1933370      0t0  TCP 192.168.88.10:39832->69.173.144.154:https (ESTABLISHED)
+chrome    12457   charl  182u  IPv4 1896119      0t0  TCP 192.168.88.10:46206->151.139.128.11:https (SYN_SENT)
+chrome    12457   charl  185u  IPv4 1897798      0t0  UDP 192.168.88.10:47989->8.8.8.8:domain 
+chrome    12457   charl  159u  IPv4 1973357      0t0  TCP 192.168.88.10:35050->136.144.49.28:https (CLOSE_WAIT)
+chrome    12457   charl  133u  IPv4 1888409      0t0  TCP 192.168.88.10:40056->18.195.155.181:https (SYN_SENT)
+chrome    12457   charl  130u  IPv4 1890503      0t0  UDP 192.168.88.10:53251->8.8.8.8:domain 
+chrome    12457   charl   23u  IPv4 835742      0t0  UDP 192.168.88.10:59174->8.8.8.8:domain 
+chrome    12457   charl  161u  IPv4 1887849      0t0  TCP 192.168.88.10:57732->216.58.223.130:https (SYN_SENT)
+chrome    12457   charl  229u  IPv4 1895204      0t0  UDP 192.168.88.10:47457->8.8.8.8:domain 
+chrome    12457   charl  207u  IPv4 1891361      0t0  TCP 192.168.88.10:52606->38.27.122.158:https (CLOSE_WAIT)
+systemd-t   415 systemd-timesync   12u  IPv4 538772      0t0  UDP 192.168.88.10:56451->8.8.8.8:domain 
+chrome    12457   charl  216u  IPv4 1890219      0t0  TCP 192.168.88.10:46182->89.207.16.137:https (ESTABLISHED)
+chrome    12457   charl  114u  IPv4 1954918      0t0  TCP 192.168.88.10:41346->46.228.164.13:https (CLOSE_WAIT)
+chrome    12457   charl   45u  IPv4 1786521      0t0  UDP 192.168.88.10:54057->8.8.8.8:domain 
+chrome    12457   charl   64u  IPv4 242468      0t0  TCP 192.168.88.10:47472->91.228.74.198:https (ESTABLISHED)
+chrome    12457   charl   46u  IPv4 1783471      0t0  TCP 192.168.88.10:44034->136.243.133.44:https (CLOSE_WAIT)
+chrome    12457   charl  171u  IPv4 1955570      0t0  TCP 192.168.88.10:36800->52.5.116.44:https (SYN_SENT)
+chrome    12457   charl   71u  IPv4 1819026      0t0  TCP 192.168.88.10:36498->208.66.56.118:https (ESTABLISHED)
+chrome    12457   charl  136u  IPv4 1953438      0t0  TCP 192.168.88.10:32828->23.50.177.161:https (ESTABLISHED)
+Chrome_IO 32658   charl  176u  IPv4  234414      0t0  UDP 224.0.0.251:mdns 
+chrome    12457   charl   98u  IPv4 1889373      0t0  TCP 192.168.88.10:57096->67.202.110.23:https (ESTABLISHED)
+chrome    12457   charl  187u  IPv4 1892425      0t0  TCP 192.168.88.10:59832->69.173.144.165:https (SYN_SENT)
+chrome  12457   charl   43u  IPv4 241569      0t0  TCP 192.168.88.10:35704->104.16.31.34:https (ESTABLISHED)
+chrome    12457   charl   62u  IPv4 1799915      0t0  TCP 192.168.88.10:50714->216.58.223.136:https (ESTABLISHED)
+chrome    12457   charl   38u  IPv4 1783470      0t0  TCP 192.168.88.10:44032->136.243.133.44:https (SYN_SENT)
+chrome    12457   charl  126u  IPv4 1887550      0t0  TCP 192.168.88.10:41784->2.17.204.225:https (SYN_SENT)
+chrome    12457   charl   60u  IPv4 1823137      0t0  TCP 192.168.88.10:36514->208.66.56.118:https (ESTABLISHED)
+chrome    12457   charl  138u  IPv4 1953474      0t0  TCP 192.168.88.10:59534->52.28.254.214:https (ESTABLISHED)
+chrome    12457   charl  210u  IPv4 1891390      0t0  TCP 192.168.88.10:60792->154.59.122.79:https (SYN_SENT)
+chrome    12457   charl   58u  IPv4 242453      0t0  TCP 192.168.88.10:47470->91.228.74.198:https (ESTABLISHED)
+chrome    12457   charl   59u  IPv4 1799623      0t0  TCP 192.168.88.10:44262->37.221.195.178:https (CLOSE_WAIT)
+chrome    12457   charl   50u  IPv4 241979      0t0  TCP 192.168.88.10:39282->143.204.19.119:https (ESTABLISHED)
+cupsd       682    root    5u  IPv6  17005      0t0  TCP [::1]:ipp (LISTEN)
+chrome    12457            charl   44u  IPv4 239589      0t0  TCP 192.168.88.10:48922->151.101.193.69:https (ESTABLISHED)
+chrome    12457   charl  167u  IPv4 1887862      0t0  TCP 192.168.88.10:58582->185.64.189.115:https (SYN_SENT)
+chrome    12457   charl   55u  IPv4 1789767      0t0  TCP 192.168.88.10:56138->172.217.170.35:https (ESTABLISHED)
+chrome    12457   charl  177u  IPv4 1897125      0t0  TCP 192.168.88.10:58600->104.244.39.20:https (SYN_SENT)
+chrome    11505            charl  176u  IPv4 234414      0t0  UDP 224.0.0.251:mdns 
+chrome    12457   charl  111u  IPv4 1954016      0t0  TCP 192.168.88.10:36106->199.127.204.147:https (SYN_SENT)
+chrome    12457   charl  104u  IPv4 1932587      0t0  TCP 192.168.88.10:43552->3.122.26.150:https (CLOSE_WAIT)
+chrome    12457   charl   91u  IPv4 1910910      0t0  TCP 192.168.88.10:58612->104.244.39.20:https (CLOSE_WAIT)
+chrome    12457   charl   54u  IPv4 244136      0t0  TCP 192.168.88.10:42180->172.217.170.65:https (SYN_SENT)
+chrome    12457   charl   70u  IPv4 301464      0t0  TCP 192.168.88.10:32880->216.58.223.142:http (ESTABLISHED)
+chrome    12457   charl  116u  IPv4 1889766      0t0  TCP 192.168.88.10:56946->104.26.2.146:https (SYN_SENT)
+chrome    12457   charl   67u  IPv4 1882169      0t0  TCP 192.168.88.10:55122->143.204.19.71:https (ESTABLISHED)
+chrome    12457   charl   81u  IPv4 1930129      0t0  TCP 192.168.88.10:47464->2.17.205.211:https (ESTABLISHED)
+chrome    12457   charl  132u  IPv4 1953683      0t0  TCP 192.168.88.10:55838->18.156.0.31:https (SYN_SENT)
+chrome    12457   charl  201u  IPv4 1896120      0t0  TCP 192.168.88.10:46208->151.139.128.11:https (ESTABLISHED)
+chrome    12457   charl  217u  IPv4 1890220      0t0  TCP 192.168.88.10:51974->185.60.219.35:https (SYN_SENT)
+chrome    12457   charl   53u  IPv4 244990      0t0  TCP 192.168.88.10:48290->198.252.206.25:https (ESTABLISHED)
+chrome    12457   charl   32u  IPv4 544108      0t0  UDP 192.168.88.10:53925->8.8.8.8:domain 
+chrome    12457   charl   66u  IPv4 1801853      0t0  TCP 192.168.88.10:48386->77.88.21.119:https (SYN_SENT)
+chrome    12457   charl  113u  IPv4 1888562      0t0  TCP 192.168.88.10:58046->18.159.90.169:https (SYN_SENT)
+chrome    12457   charl  142u  IPv4 1890824      0t0  TCP 192.168.88.10:57010->8.43.72.97:https (SYN_SENT)
+chrome    12457   charl   78u  IPv4 1887004      0t0  TCP 192.168.88.10:32900->23.3.231.243:https (ESTABLISHED)
+chrome    12457   charl   42u  IPv4 239916      0t0  TCP 192.168.88.10:55606->172.217.170.1:https (ESTABLISHED)
+chrome    12457   charl  181u  IPv4 1888566      0t0  TCP 192.168.88.10:45752->35.169.45.106:https (ESTABLISHED)
+chrome    12457   charl  252u  IPv4 1892014      0t0  UDP 192.168.88.10:50960->8.8.8.8:domain 
+chrome    12457   charl   91u  IPv4 1883053      0t0  TCP 192.168.88.10:41628->72.251.249.14:https (CLOSE_WAIT)
+wget        478   charl    5u  IPv4 2273594      0t0  TCP 192.168.88.10:34298->172.217.170.14:https (ESTABLISHED)
+chrome    12457   charl   81u  IPv4 1820469      0t0  TCP 192.168.88.10:36502->208.66.56.118:https (ESTABLISHED)
+chrome    12457   charl   46u  IPv4 2005202      0t0  TCP 192.168.88.10:56728->172.217.170.35:https (ESTABLISHED)
+chrome    12457   charl   40u  IPv4 236372      0t0  UDP 192.168.88.10:33391->8.8.8.8:domain 
+chrome    12457   charl   34u  IPv4 1772472      0t0  TCP 192.168.88.10:49080->172.217.170.46:https (ESTABLISHED)
+chrome    12457   charl   95u  IPv4 1888558      0t0  TCP 192.168.88.10:41040->34.250.65.236:https (ESTABLISHED)
+wget      32561   charl    5u  IPv4 2264586      0t0  UDP 192.168.88.10:40065->8.8.8.8:domain 
+chrome    12457   charl   56u  IPv4 257294      0t0  TCP 192.168.88.10:40598->216.58.223.129:https (SYN_SENT)
+chrome    12457   charl   85u  IPv4 1882389      0t0  TCP 192.168.88.10:44708->178.162.133.149:https (SYN_SENT)
+chrome    12457   charl  153u  IPv4 1953672      0t0  UDP 192.168.88.10:46849->8.8.8.8:domain 
+cupsd     26909    root    5u  IPv6  463190      0t0  TCP [::1]:ipp (LISTEN)
+chrome    12457   charl   74u  IPv4 302503      0t0  TCP 192.168.88.10:40124->216.58.223.144:https (ESTABLISHED)
+chrome    12457   charl  155u  IPv4 1890420      0t0  UDP 192.168.88.10:34588->8.8.8.8:domain 
+chrome    12457   charl  226u  IPv4 1892006      0t0  UDP 192.168.88.10:47288->8.8.8.8:domain 
+chrome    12457   charl   27u  IPv4 835777      0t0  TCP 192.168.88.10:36366->172.217.20.131:https (SYN_SENT)
+chrome    12457   charl  105u  IPv4 1889121      0t0  TCP 192.168.88.10:42578->172.217.170.65:https (SYN_SENT)
+chrome    12457   charl  160u  IPv4 1956593      0t0  TCP 192.168.88.10:47522->185.64.189.110:https (ESTABLISHED)
+chrome    12457   charl   54u  IPv4 1961273      0t0  TCP 192.168.88.10:34024->54.208.200.8:https (SYN_SENT)
+chrome    12457   charl  173u  IPv4 1888529      0t0  TCP 192.168.88.10:40510->159.253.128.188:https (ESTABLISHED)
+chrome    12457   charl   39u  IPv4 1777475      0t0  TCP 192.168.88.10:56006->172.217.170.2:https (ESTABLISHED)
+chrome    12457   charl   41u  IPv4 1771135      0t0  UDP 192.168.88.10:57821->8.8.8.8:domain 
+chrome    12457   charl   50u  IPv4 1782735      0t0  TCP 192.168.88.10:44042->136.243.133.44:https (CLOSE_WAIT)
+chrome    12457   charl  207u  IPv4 1891361      0t0  TCP 192.168.88.10:52606->38.27.122.158:https (ESTABLISHED)
+chrome    12457   charl  137u  IPv4 1931059      0t0  TCP 192.168.88.10:58644->104.244.39.20:https (CLOSE_WAIT)
+wget        478   charl    5u  IPv4 2273562      0t0  UDP 192.168.88.10:50003->8.8.8.8:domain 
+chrome    12457   charl  134u  IPv4 1970967      0t0  TCP 192.168.88.10:57712->2.17.204.121:https (ESTABLISHED)
+chrome    12457   charl  102u  IPv4 1894163      0t0  TCP 192.168.88.10:48020->143.204.19.22:https (SYN_SENT)
+chrome    12457   charl  153u  IPv4 1970956      0t0  TCP 192.168.88.10:50504->185.86.139.115:https (ESTABLISHED)
+chrome    12457   charl   38u  IPv4 230429      0t0  UDP 192.168.88.10:46408->8.8.8.8:domain 
+chrome    12457   charl   63u  IPv4 1823256      0t0  TCP 192.168.88.10:36516->208.66.56.118:https (ESTABLISHED)
+chrome  12457   charl   56u  IPv4 257294      0t0  TCP 192.168.88.10:40598->216.58.223.129:https (ESTABLISHED)
+chrome  12457   charl   70u  IPv4 301464      0t0  TCP 192.168.88.10:32880->216.58.223.142:http (ESTABLISHED)
+chrome    12457   charl  142u  IPv4 1890824      0t0  TCP 192.168.88.10:57010->8.43.72.97:https (CLOSE_WAIT)
+chrome  12457   charl   44u  IPv4 239589      0t0  TCP 192.168.88.10:48922->151.101.193.69:https (ESTABLISHED)
+chrome    12457   charl   49u  IPv4 1815540      0t0  UDP 192.168.88.10:35314->8.8.8.8:domain 
+chrome    12457   charl   64u  IPv4 1869864      0t0  UDP 192.168.88.10:39047->8.8.8.8:domain 
+chrome    12457   charl  164u  IPv4 1888464      0t0  TCP 192.168.88.10:39532->3.222.179.110:https (SYN_SENT)
+chrome    12457   charl   92u  IPv4 1896116      0t0  TCP 192.168.88.10:46200->151.139.128.11:https (ESTABLISHED)
+chrome    12457   charl   67u  IPv4 301202      0t0  TCP 192.168.88.10:56064->172.217.170.35:https (ESTABLISHED)
+cupsd     26909    root    6u  IPv4  463191      0t0  TCP 127.0.0.1:ipp (LISTEN)
+chrome    12457   charl  201u  IPv4 1897127      0t0  TCP 192.168.88.10:58604->104.244.39.20:https (SYN_SENT)
+chrome    12457   charl  171u  IPv4 1888528      0t0  TCP 192.168.88.10:39102->51.178.20.139:https (CLOSE_WAIT)
+chrome    12457   charl  125u  IPv4 1888408      0t0  TCP 192.168.88.10:44748->178.162.133.149:https (CLOSE_WAIT)
+chrome    12457            charl   67u  IPv4 301202      0t0  TCP 192.168.88.10:56064->172.217.170.35:https (ESTABLISHED)
+chrome    12457   charl  102u  IPv4 1894163      0t0  TCP 192.168.88.10:48020->143.204.19.22:https (ESTABLISHED)
+chrome    12457   charl   66u  IPv4 1881671      0t0  TCP 192.168.88.10:38634->91.228.74.134:https (ESTABLISHED)
+chrome    12457   charl   81u  IPv4 1952330      0t0  TCP 192.168.88.10:56744->35.241.44.144:https (ESTABLISHED)
+chrome    12457   charl  142u  IPv4 1932055      0t0  TCP 192.168.88.10:58648->104.244.39.20:https (CLOSE_WAIT)
+chrome    12457   charl  139u  IPv4 1974318      0t0  UDP 192.168.88.10:40531->8.8.8.8:domain 
+chrome    12457   charl   34u  IPv4 237951      0t0  TCP 192.168.88.10:46260->142.250.102.188:5228 (SYN_SENT)
+wget        392   charl    5u  IPv4 2274316      0t0  TCP 192.168.88.10:34296->172.217.170.14:https (SYN_SENT)
+chrome    12457   charl   55u  IPv4 1878775      0t0  TCP 192.168.88.10:33110->143.204.19.124:https (ESTABLISHED)
+chrome    12457   charl  144u  IPv4 1888973      0t0  TCP 192.168.88.10:58070->52.94.232.32:https (ESTABLISHED)
+chrome    12457   charl   51u  IPv4 243882      0t0  UDP 192.168.88.10:54513->8.8.8.8:domain 
+chrome    12457   charl   92u  IPv4 1910911      0t0  TCP 192.168.88.10:58614->104.244.39.20:https (SYN_SENT)
+chrome    12457   charl  134u  IPv4 1955021      0t0  TCP 192.168.88.10:56218->69.173.144.138:https (ESTABLISHED)
+colord-sa  1411  colord   14u  IPv4 1705363      0t0  UDP *:42783 
+chrome    12457   charl  135u  IPv4 1931055      0t0  TCP 192.168.88.10:58642->104.244.39.20:https (CLOSE_WAIT)
+chrome    12457   charl  108u  IPv4 1959307      0t0  UDP 192.168.88.10:33632->8.8.8.8:domain 
+chrome    12457   charl   54u  IPv4 1961273      0t0  TCP 192.168.88.10:34024->54.208.200.8:https (CLOSE_WAIT)
+chrome    12457   charl   59u  IPv4 243549      0t0  UDP 192.168.88.10:48565->8.8.8.8:domain 
+chrome    12457   charl   84u  IPv4 1820471      0t0  TCP 192.168.88.10:36506->208.66.56.118:https (SYN_SENT)
+chrome    12457   charl   41u  IPv4 2002473      0t0  TCP 192.168.88.10:56826->51.89.240.37:https (ESTABLISHED)
+chrome    12457   charl  112u  IPv4 1887767      0t0  UDP 192.168.88.10:50243->8.8.8.8:domain 
+chrome    12457   charl   65u  IPv4 1822223      0t0  TCP 192.168.88.10:36508->208.66.56.118:https (ESTABLISHED)
+chrome    12457   charl  129u  IPv4 1888388      0t0  TCP 192.168.88.10:50180->198.148.27.140:https (ESTABLISHED)
+chrome    12457   charl  221u  IPv4 1891472      0t0  TCP 192.168.88.10:46266->3.220.190.7:https (ESTABLISHED)
+chrome    12457   charl  221u  IPv4 1891472      0t0  TCP 192.168.88.10:46266->3.220.190.7:https (CLOSE_WAIT)
+wget      32561   charl    5u  IPv4 2264589      0t0  TCP 192.168.88.10:34270->172.217.170.14:https (ESTABLISHED)
+chrome    12457   charl   88u  IPv4 1888389      0t0  TCP 192.168.88.10:57688->216.58.223.130:https (ESTABLISHED)
+chrome    12457   charl  122u  IPv4 1954940      0t0  TCP 192.168.88.10:36464->193.0.160.129:https (SYN_SENT)
+chrome    12457   charl  144u  IPv4 1969975      0t0  TCP 192.168.88.10:47468->194.71.11.173:https (SYN_SENT)
+chrome    12457   charl   64u  IPv4 1878770      0t0  TCP 192.168.88.10:45924->151.139.128.11:https (ESTABLISHED)
+chrome    12457   charl  108u  IPv4 1883094      0t0  TCP 192.168.88.10:44740->178.162.133.149:https (SYN_SENT)
+chrome    12457   charl  203u  IPv4 1891469      0t0  TCP 192.168.88.10:42962->151.101.2.49:https (ESTABLISHED)
+chrome    12457   charl   28u  IPv4 221933      0t0  TCP 192.168.88.10:55152->216.58.223.138:https (ESTABLISHED)
+chrome    12457            charl   56u  IPv4 257294      0t0  TCP 192.168.88.10:40598->216.58.223.129:https (ESTABLISHED)
+chrome    12457   charl  223u  IPv4 1889238      0t0  UDP 192.168.88.10:52263->8.8.8.8:domain 
+chrome    12457   charl  131u  IPv4 1955951      0t0  UDP 192.168.88.10:35342->8.8.8.8:domain 
+chrome    12457   charl  151u  IPv4 1893298      0t0  TCP 192.168.88.10:49802->46.228.164.11:https (SYN_SENT)
+chrome    12457   charl  141u  IPv4 1892757      0t0  TCP 192.168.88.10:54744->37.252.172.45:https (ESTABLISHED)
+cupsd     26909             root    6u  IPv4  463191      0t0  TCP 127.0.0.1:ipp (LISTEN)
+chrome    12457   charl   92u  IPv4 1910911      0t0  TCP 192.168.88.10:58614->104.244.39.20:https (ESTABLISHED)
+chrome    12457   charl   86u  IPv4 1951978      0t0  TCP 192.168.88.10:34082->172.217.170.14:https (SYN_SENT)
+chrome    12457   charl  154u  IPv4 1958939      0t0  TCP 192.168.88.10:36804->52.5.116.44:https (ESTABLISHED)
+chrome    12457   charl  123u  IPv4 1930474      0t0  TCP 192.168.88.10:56712->54.179.29.174:https (ESTABLISHED)
+chrome    12457   charl  169u  IPv4 1890542      0t0  TCP 192.168.88.10:55700->52.58.102.227:https (CLOSE_WAIT)
+chrome    12457   charl  129u  IPv4 1971089      0t0  UDP 192.168.88.10:50413->8.8.8.8:domain 
+chrome    12457   charl  169u  IPv4 1890542      0t0  TCP 192.168.88.10:55700->52.58.102.227:https (ESTABLISHED)
+chrome    12457   charl  174u  IPv4 1888666      0t0  TCP 192.168.88.10:57886->104.75.209.225:https (SYN_SENT)
+chrome    12457   charl  205u  IPv4 1890222      0t0  TCP 192.168.88.10:50760->54.221.123.110:https (SYN_SENT)
+chrome    12457   charl  140u  IPv4 1956150      0t0  TCP 192.168.88.10:54214->52.212.223.152:https (SYN_SENT)
+chrome    12457   charl  159u  IPv4 1971855      0t0  UDP 192.168.88.10:50289->8.8.8.8:domain 
+chrome    12457   charl  179u  IPv4 1891447      0t0  TCP 192.168.88.10:46238->3.220.190.7:https (SYN_SENT)
+chrome    12457   charl  107u  IPv4 1946912      0t0  UDP 192.168.88.10:59683->8.8.8.8:domain 
+chrome    12457   charl  122u  IPv4 1955904      0t0  UDP 192.168.88.10:33422->8.8.8.8:domain 
+chrome    12457   charl  143u  IPv4 1888414      0t0  TCP 192.168.88.10:59562->185.33.220.243:https (ESTABLISHED)
+chrome    12457   charl  147u  IPv4 1889866      0t0  TCP 192.168.88.10:54432->35.186.193.173:https (ESTABLISHED)
+chrome    12457   charl   92u  IPv4 1910911      0t0  TCP 192.168.88.10:58614->104.244.39.20:https (CLOSE_WAIT)
+chrome    12457   charl  215u  IPv4 1891311      0t0  UDP 192.168.88.10:34750->8.8.8.8:domain 
+chrome    12457   charl  108u  IPv4 1883094      0t0  TCP 192.168.88.10:44740->178.162.133.149:https (ESTABLISHED)
+chrome    12457   charl  133u  IPv4 1888532      0t0  TCP 192.168.88.10:40112->18.195.155.181:https (ESTABLISHED)
+chrome    12457   charl   48u  IPv4 1782734      0t0  TCP 192.168.88.10:44040->136.243.133.44:https (SYN_SENT)
+chrome    12457   charl  136u  IPv4 1889334      0t0  TCP 192.168.88.10:50202->198.148.27.140:https (SYN_SENT)
+chrome    12457   charl  131u  IPv4 1954991      0t0  TCP 192.168.88.10:44414->199.127.204.142:https (SYN_SENT)
+chrome    12457   charl   65u  IPv4 250255      0t0  TCP 192.168.88.10:55942->172.217.170.2:https (ESTABLISHED)
+chrome  12457   charl   63u  IPv4 242306      0t0  TCP 192.168.88.10:44680->108.177.15.156:https (ESTABLISHED)
+chrome    12457   charl  175u  IPv4 1962023      0t0  TCP 192.168.88.10:34022->54.208.200.8:https (SYN_SENT)
+systemd-t   415 systemd-timesync   12u  IPv4 1602745      0t0  UDP 192.168.88.10:52566->8.8.8.8:domain 
+chrome    12457   charl  122u  IPv4 1891458      0t0  TCP 192.168.88.10:58058->52.94.232.32:https (CLOSE_WAIT)
+chrome    12457   charl   44u  IPv4 1800601      0t0  TCP 192.168.88.10:35746->216.58.212.234:https (SYN_SENT)
+chrome    12457   charl   27u  IPv4 222921      0t0  TCP 192.168.88.10:55150->216.58.223.138:https (ESTABLISHED)
+chrome    12457   charl   53u  IPv4 440774      0t0  TCP 192.168.88.10:48346->198.252.206.25:https (ESTABLISHED)
+chrome    12457   charl  141u  IPv4 1931060      0t0  TCP 192.168.88.10:58646->104.244.39.20:https (ESTABLISHED)
+chrome    12457   charl   92u  IPv4 1933370      0t0  TCP 192.168.88.10:39832->69.173.144.154:https (SYN_SENT)
+chrome    12457   charl   83u  IPv4 1996652      0t0  UDP 192.168.88.10:37664->8.8.8.8:domain 
+chrome  12457   charl   54u  IPv4 364421      0t0  TCP 192.168.88.10:53928->216.58.223.99:https (ESTABLISHED)
+chrome    12457   charl  118u  IPv4 1954017      0t0  TCP 192.168.88.10:55872->52.44.151.130:https (SYN_SENT)
+chrome    12457   charl  135u  IPv4 1955022      0t0  TCP 192.168.88.10:56220->69.173.144.138:https (ESTABLISHED)
+systemd-t   415 systemd-timesync   12u  IPv4 1629996      0t0  UDP 192.168.88.10:54751->8.8.8.8:domain 
+chrome    12457   charl   79u  IPv4 1799626      0t0  TCP 192.168.88.10:44264->37.221.195.178:https (CLOSE_WAIT)
+chrome    12457   charl   65u  IPv4 247486      0t0  UDP 192.168.88.10:60137->8.8.8.8:domain 
+chrome    12457   charl  191u  IPv4 1889868      0t0  UDP 192.168.88.10:33287->8.8.8.8:domain 
+chrome  12457   charl   42u  IPv4 239916      0t0  TCP 192.168.88.10:55606->172.217.170.1:https (ESTABLISHED)
+chrome    12457   charl   48u  IPv4 1782734      0t0  TCP 192.168.88.10:44040->136.243.133.44:https (ESTABLISHED)
+chrome    12457   charl   56u  IPv4 240486      0t0  UDP 192.168.88.10:36667->8.8.8.8:domain 
+chrome    12457   charl   32u  IPv4 225537      0t0  TCP 192.168.88.10:50442->172.217.170.77:https (ESTABLISHED)
+chrome    12457   charl  141u  IPv4 1892757      0t0  TCP 192.168.88.10:54744->37.252.172.45:https (CLOSE_WAIT)
+chrome    12457   charl   38u  IPv4 1798365      0t0  TCP 192.168.88.10:44254->37.221.195.178:https (CLOSE_WAIT)
+chrome    12457   charl   53u  IPv4 244990      0t0  TCP 192.168.88.10:48290->198.252.206.25:https (SYN_SENT)
+chrome    12457   charl  106u  IPv4 1888385      0t0  TCP 192.168.88.10:48010->172.217.170.34:https (ESTABLISHED)
+chrome    12457   charl  122u  IPv4 1971832      0t0  TCP 192.168.88.10:50496->185.86.139.115:https (CLOSE_WAIT)
+Chrome_IO   472   charl  176u  IPv4  234414      0t0  UDP 224.0.0.251:mdns 
+cups-brow 744    root    7u  IPv4  20656      0t0  UDP *:ipp 
+chrome    12457   charl   23u  IPv4 835771      0t0  TCP 192.168.88.10:36364->172.217.20.131:https (SYN_SENT)
+chrome    12457   charl  108u  IPv4 1951979      0t0  TCP 192.168.88.10:34084->172.217.170.14:https (SYN_SENT)
+chrome    12457   charl  170u  IPv4 1889793      0t0  TCP 192.168.88.10:32932->172.217.170.33:https (ESTABLISHED)
+chrome    12457   charl   91u  IPv4 1999736      0t0  TCP 192.168.88.10:56818->51.89.240.37:https (SYN_SENT)
+cups-brow 26910    root    4u  IPv4 461406      0t0  UDP 192.168.88.10:57999->8.8.8.8:domain 
+chrome    12457   charl   64u  IPv4 1957736      0t0  TCP 192.168.88.10:46578->2.18.3.250:https (CLOSE_WAIT)
+chrome    12457   charl  143u  IPv4 1954497      0t0  TCP 192.168.88.10:59536->52.28.254.214:https (ESTABLISHED)
+chrome    12457   charl   37u  IPv4 299389      0t0  TCP 192.168.88.10:34936->172.217.170.3:https (ESTABLISHED)
+chrome    12457   charl  129u  IPv4 1888388      0t0  TCP 192.168.88.10:50180->198.148.27.140:https (SYN_SENT)
+chrome    12457   charl  135u  IPv4 1931055      0t0  TCP 192.168.88.10:58642->104.244.39.20:https (ESTABLISHED)
+avahi-dae   688   avahi   14u  IPv4  19904      0t0  UDP *:45380 
+chrome    11505            charl  176u  IPv4  234414      0t0  UDP 224.0.0.251:mdns 
+chrome    12457   charl  171u  IPv4 1888528      0t0  TCP 192.168.88.10:39102->51.178.20.139:https (SYN_SENT)
+chrome    12457   charl   44u  IPv4 239589      0t0  TCP 192.168.88.10:48922->151.101.193.69:https (ESTABLISHED)
+chrome    12457   charl  132u  IPv4 1888406      0t0  TCP 192.168.88.10:59516->89.207.16.140:https (ESTABLISHED)
+chrome    12457   charl  171u  IPv4 1955570      0t0  TCP 192.168.88.10:36800->52.5.116.44:https (ESTABLISHED)
+chrome    12457   charl  159u  IPv4 1953728      0t0  TCP 192.168.88.10:46568->213.254.244.17:https (ESTABLISHED)
+chrome    12457   charl  146u  IPv4 1957348      0t0  TCP 192.168.88.10:41838->18.158.221.94:https (ESTABLISHED)
+chrome    12457   charl   61u  IPv4 241861      0t0  UDP 192.168.88.10:55829->8.8.8.8:domain 
+chrome    12457   charl   50u  IPv4 1782735      0t0  TCP 192.168.88.10:44042->136.243.133.44:https (ESTABLISHED)
+chrome    12457   charl   39u  IPv4 1776450      0t0  UDP 192.168.88.10:37349->8.8.8.8:domain 
+chrome    12457   charl  172u  IPv4 1890568      0t0  UDP 192.168.88.10:33610->8.8.8.8:domain 
+chrome    12457   charl  113u  IPv4 1953709      0t0  TCP 192.168.88.10:58028->149.20.4.15:https (ESTABLISHED)
+chrome    12457   charl   34u  IPv4 296459      0t0  UDP 192.168.88.10:42535->8.8.8.8:domain 
+chrome    12457   charl   79u  IPv4 440052      0t0  UDP 192.168.88.10:43996->8.8.8.8:domain 
+avahi-dae 688   avahi   15u  IPv6  19905      0t0  UDP *:49061 
+chrome  12457   charl   71u  IPv4 260114      0t0  TCP 192.168.88.10:55948->172.217.170.2:https (ESTABLISHED)
+chrome    12457   charl  111u  IPv4 1890798      0t0  UDP 192.168.88.10:52593->8.8.8.8:domain 
+chrome    12457   charl  141u  IPv4 1892757      0t0  TCP 192.168.88.10:54744->37.252.172.45:https (SYN_SENT)
+chrome    12457   charl   91u  IPv4 1999736      0t0  TCP 192.168.88.10:56818->51.89.240.37:https (CLOSE_WAIT)
+chrome    12457   charl  191u  IPv4 1891896      0t0  TCP 192.168.88.10:57978->104.75.209.225:https (SYN_SENT)
+chrome    12457   charl   83u  IPv4 1951977      0t0  TCP 192.168.88.10:34080->172.217.170.14:https (SYN_SENT)
+chrome    12457   charl  124u  IPv4 1891232      0t0  UDP 192.168.88.10:50822->8.8.8.8:domain 
+chrome    12457   charl  122u  IPv4 1889996      0t0  UDP 192.168.88.10:38680->8.8.8.8:domain 
+chrome  12457   charl   50u  IPv4 241979      0t0  TCP 192.168.88.10:39282->143.204.19.119:https (ESTABLISHED)
+chrome    12457   charl   36u  IPv4 1774093      0t0  TCP 192.168.88.10:33634->172.217.170.14:https (ESTABLISHED)
+chrome    12457            charl   72u  IPv4 300932      0t0  TCP 192.168.88.10:32882->216.58.223.142:http (ESTABLISHED)
+chrome    12457   charl   49u  IPv4 1832105      0t0  TCP 192.168.88.10:46616->216.58.213.3:https (ESTABLISHED)
+chrome    12457   charl   73u  IPv4 302440      0t0  TCP 192.168.88.10:37584->173.194.128.232:http (SYN_SENT)
+avahi-dae 688   avahi   14u  IPv4  19904      0t0  UDP *:45380 
+colord-sa  1411  colord   15u  IPv6 1705246      0t0  UDP [fe80::a61f:72ff:fe5e:4d4b]:8612 
+chrome    12457   charl  193u  IPv4 1889869      0t0  TCP 192.168.88.10:57690->87.98.228.78:https (SYN_SENT)
+chrome    12457   charl  109u  IPv4 2009707      0t0  TCP 192.168.88.10:38980->130.89.148.77:https (SYN_SENT)
+chrome    12457   charl   91u  IPv4 1883053      0t0  TCP 192.168.88.10:41628->72.251.249.14:https (SYN_SENT)
+chrome    12457   charl  218u  IPv4 1890221      0t0  TCP 192.168.88.10:35380->212.82.100.176:https (SYN_SENT)
+chrome    12457   charl  144u  IPv4 1953604      0t0  TCP 192.168.88.10:50144->216.52.2.48:https (SYN_SENT)
+chrome    12457   charl  111u  IPv4 1957722      0t0  TCP 192.168.88.10:46576->2.18.3.250:https (SYN_SENT)
+chrome    12457   charl  224u  IPv4 1897128      0t0  TCP 192.168.88.10:58606->104.244.39.20:https (CLOSE_WAIT)
+chrome    12457   charl  122u  IPv4 1954940      0t0  TCP 192.168.88.10:36464->193.0.160.129:https (ESTABLISHED)
+chrome    12457   charl   37u  IPv4 1770991      0t0  UDP 192.168.88.10:49195->8.8.8.8:domain 
+chrome    12457   charl   45u  IPv4 1786656      0t0  UDP 192.168.88.10:43184->8.8.8.8:domain 
+chrome    12457   charl   38u  IPv4 1878008      0t0  UDP 192.168.88.10:39580->8.8.8.8:domain 
+chrome    12457   charl   86u  IPv4 1951907      0t0  UDP 192.168.88.10:42994->8.8.8.8:domain 
+chrome    12457   charl  233u  IPv4 1893291      0t0  TCP 192.168.88.10:56654->54.179.29.174:https (CLOSE_WAIT)
+chrome    12457   charl  207u  IPv4 1891361      0t0  TCP 192.168.88.10:52606->38.27.122.158:https (SYN_SENT)
+chrome    12457   charl  121u  IPv4 1930519      0t0  TCP 192.168.88.10:43550->3.122.26.150:https (CLOSE_WAIT)
+chrome    12457   charl  202u  IPv4 1893312      0t0  UDP 192.168.88.10:33105->8.8.8.8:domain 
+chrome    12457   charl   75u  IPv4 305440      0t0  TCP 192.168.88.10:56142->172.217.170.66:https (SYN_SENT)
+chrome    12457   charl   70u  IPv4 302311      0t0  UDP 192.168.88.10:44179->8.8.8.8:domain 
+chrome    12457   charl  119u  IPv4 1889792      0t0  UDP 192.168.88.10:59263->8.8.8.8:domain 
+chrome    12457   charl  212u  IPv4 1891470      0t0  TCP 192.168.88.10:42964->151.101.2.49:https (ESTABLISHED)
+chrome    12457   charl  158u  IPv4 1891242      0t0  TCP 192.168.88.10:56468->208.100.17.184:https (ESTABLISHED)
+chrome    12457   charl  136u  IPv4 1889334      0t0  TCP 192.168.88.10:50202->198.148.27.140:https (CLOSE_WAIT)
+chrome    12457   charl  155u  IPv4 1953685      0t0  TCP 192.168.88.10:55840->18.156.0.31:https (ESTABLISHED)
+chrome    12457            charl   53u  IPv4  440774      0t0  TCP 192.168.88.10:48346->198.252.206.25:https (ESTABLISHED)
+chrome    12457   charl   47u  IPv4 2075253      0t0  UDP 192.168.88.10:39607->8.8.8.8:domain 
+chrome    12457   charl  151u  IPv4 1889376      0t0  TCP 192.168.88.10:55502->18.156.0.31:https (ESTABLISHED)
+chrome    12457   charl   94u  IPv4 1883055      0t0  TCP 192.168.88.10:48140->192.132.33.46:https (ESTABLISHED)
+chrome    12457   charl   46u  IPv4 1783471      0t0  TCP 192.168.88.10:44034->136.243.133.44:https (ESTABLISHED)
+chrome    12457   charl  140u  IPv4 1896117      0t0  TCP 192.168.88.10:46202->151.139.128.11:https (ESTABLISHED)
+chrome    12457   charl  155u  IPv4 1974276      0t0  TCP 192.168.88.10:41462->46.228.164.13:https (ESTABLISHED)
+chrome    12457   charl   43u  IPv4 1779761      0t0  TCP 192.168.88.10:47886->172.217.170.34:https (ESTABLISHED)
+chrome    12457   charl  113u  IPv4 1971746      0t0  TCP 192.168.88.10:47460->194.71.11.173:https (ESTABLISHED)
+chrome    12457   charl   49u  IPv4 1818239      0t0  TCP 192.168.88.10:36492->208.66.56.118:https (ESTABLISHED)
+chrome    12457   charl  210u  IPv4 1891390      0t0  TCP 192.168.88.10:60792->154.59.122.79:https (ESTABLISHED)
+chrome    12457   charl  153u  IPv4 1887817      0t0  TCP 192.168.88.10:55676->52.58.102.227:https (SYN_SENT)
+chrome    12457   charl   93u  IPv4 1883054      0t0  TCP 192.168.88.10:32906->23.3.231.243:https (ESTABLISHED)
+chrome    12457   charl   83u  IPv4 1950550      0t0  TCP 192.168.88.10:49020->2.18.0.23:https (ESTABLISHED)
+colord-sa 29104  colord   13u  IPv4 2214707      0t0  UDP 192.168.88.10:8612 
+chrome    12457   charl  140u  IPv4 1956150      0t0  TCP 192.168.88.10:54214->52.212.223.152:https (ESTABLISHED)
+chrome    12457   charl  133u  IPv4 1888532      0t0  TCP 192.168.88.10:40112->18.195.155.181:https (SYN_SENT)
+chrome    12457   charl  220u  IPv4 1891471      0t0  TCP 192.168.88.10:35396->212.82.100.176:https (SYN_SENT)
+chrome    12457   charl  104u  IPv4 1932587      0t0  TCP 192.168.88.10:43552->3.122.26.150:https (SYN_SENT)
+chrome    12457   charl   57u  IPv4 1800591      0t0  TCP 192.168.88.10:44260->37.221.195.178:https (CLOSE_WAIT)
+chrome    12457   charl   48u  IPv4 1877284      0t0  TCP 192.168.88.10:56200->172.217.170.35:https (ESTABLISHED)
+chrome  12457   charl   27u  IPv4 222921      0t0  TCP 192.168.88.10:55150->216.58.223.138:https (ESTABLISHED)
+cups-brow 26910             root    7u  IPv4 461410      0t0  UDP *:ipp 
+chrome    12457   charl   38u  IPv4 1775410      0t0  UDP 192.168.88.10:38389->8.8.8.8:domain 
+chrome    12457   charl  143u  IPv4 1954497      0t0  TCP 192.168.88.10:59536->52.28.254.214:https (SYN_SENT)
+chrome    12457   charl   23u  IPv4 1778914      0t0  TCP 192.168.88.10:57548->216.58.223.130:https (ESTABLISHED)
+chrome    12457            charl   76u  IPv4 303442      0t0  TCP 192.168.88.10:56144->172.217.170.66:https (ESTABLISHED)
+chrome    12457   charl  107u  IPv4 1883065      0t0  TCP 192.168.88.10:59530->185.33.220.243:https (ESTABLISHED)
+chrome    12457   charl  144u  IPv4 1888973      0t0  TCP 192.168.88.10:58070->52.94.232.32:https (CLOSE_WAIT)
+chrome    12457   charl  145u  IPv4 1969976      0t0  TCP 192.168.88.10:47470->194.71.11.173:https (SYN_SENT)
+chrome    12457   charl   54u  IPv4 1880230      0t0  TCP 192.168.88.10:42754->151.101.2.49:https (ESTABLISHED)
+chrome    12457   charl  124u  IPv4 1951741      0t0  UDP 192.168.88.10:36636->8.8.8.8:domain 
+chrome  12457   charl   45u  IPv4 239591      0t0  TCP 192.168.88.10:47782->172.217.170.34:https (ESTABLISHED)
+chrome    12457   charl   64u  IPv4 1952307      0t0  TCP 192.168.88.10:49900->46.228.164.11:https (SYN_SENT)
+chrome    12457   charl   35u  IPv4 1765970      0t0  UDP 192.168.88.10:46889->8.8.8.8:domain 
+chrome    12457   charl   85u  IPv4 1879758      0t0  UDP 192.168.88.10:56458->8.8.8.8:domain 
+chrome  12457   charl   53u  IPv4 440774      0t0  TCP 192.168.88.10:48346->198.252.206.25:https (ESTABLISHED)
+chrome    12457   charl  174u  IPv4 1888666      0t0  TCP 192.168.88.10:57886->104.75.209.225:https (ESTABLISHED)
+chrome    12457            charl   42u  IPv4 239916      0t0  TCP 192.168.88.10:55606->172.217.170.1:https (ESTABLISHED)
+chrome    12457   charl   81u  IPv4 1820469      0t0  TCP 192.168.88.10:36502->208.66.56.118:https (SYN_SENT)
+chrome    12457   charl   46u  IPv4 1798366      0t0  TCP 192.168.88.10:44256->37.221.195.178:https (SYN_SENT)
+chrome    12457   charl  125u  IPv4 1888408      0t0  TCP 192.168.88.10:44748->178.162.133.149:https (SYN_SENT)
+chrome    12457   charl   53u  IPv4 241910      0t0  UDP 192.168.88.10:33891->8.8.8.8:domain 
+chrome    12457   charl   60u  IPv4 1823137      0t0  TCP 192.168.88.10:36514->208.66.56.118:https (SYN_SENT)
+chrome    12457   charl  109u  IPv4 1888526      0t0  TCP 192.168.88.10:40104->18.195.155.181:https (ESTABLISHED)
+chrome    12457   charl  193u  IPv4 1889869      0t0  TCP 192.168.88.10:57690->87.98.228.78:https (ESTABLISHED)
+chrome    12457   charl  155u  IPv4 1888527      0t0  TCP 192.168.88.10:45738->35.169.45.106:https (ESTABLISHED)
+chrome    12457   charl  155u  IPv4 1953685      0t0  TCP 192.168.88.10:55840->18.156.0.31:https (SYN_SENT)
+chrome    12457   charl  125u  IPv4 1969909      0t0  TCP 192.168.88.10:47462->194.71.11.173:https (ESTABLISHED)
+chrome    12457   charl  125u  IPv4 1952953      0t0  TCP 192.168.88.10:36112->199.127.204.147:https (ESTABLISHED)
+mongod      738 mongodb   11u  IPv4   21444      0t0  TCP 127.0.0.1:27017 (LISTEN)
+chrome    12457   charl  150u  IPv4 1889714      0t0  TCP 192.168.88.10:35786->34.96.105.8:https (ESTABLISHED)
+chrome    12457   charl   45u  IPv4 1789206      0t0  TCP 192.168.88.10:40152->216.58.223.106:https (ESTABLISHED)
+chrome    12457   charl  121u  IPv4 1930519      0t0  TCP 192.168.88.10:43550->3.122.26.150:https (SYN_SENT)
+chrome    12457   charl  123u  IPv4 1930474      0t0  TCP 192.168.88.10:56712->54.179.29.174:https (SYN_SENT)
+chrome    12457   charl  166u  IPv4 1960029      0t0  TCP 192.168.88.10:58242->185.94.180.126:https (ESTABLISHED)
+chrome    12457   charl  205u  IPv4 1891340      0t0  UDP 192.168.88.10:40046->8.8.8.8:domain 
+chrome  12457   charl   40u  IPv4 240819      0t0  TCP 192.168.88.10:41448->172.217.170.67:https (ESTABLISHED)
+chrome    12457   charl  169u  IPv4 1890542      0t0  TCP 192.168.88.10:55700->52.58.102.227:https (SYN_SENT)
+chrome    12457   charl  209u  IPv4 1891389      0t0  TCP 192.168.88.10:53434->104.18.12.5:https (SYN_SENT)
+chrome    12457            charl   65u  IPv4 250255      0t0  TCP 192.168.88.10:55942->172.217.170.2:https (ESTABLISHED)
+chrome    12457   charl   42u  IPv4 240924      0t0  UDP 192.168.88.10:48161->8.8.8.8:domain 
+chrome    12457   charl  192u  IPv4 1889862      0t0  TCP 192.168.88.10:53670->185.29.135.42:https (SYN_SENT)
+chrome    12457   charl  200u  IPv4 1893254      0t0  TCP 192.168.88.10:52270->64.233.166.155:https (SYN_SENT)
+chrome    12457   charl   64u  IPv4 1952307      0t0  TCP 192.168.88.10:49900->46.228.164.11:https (ESTABLISHED)
+chrome    12457   charl  159u  IPv4 1953728      0t0  TCP 192.168.88.10:46568->213.254.244.17:https (CLOSE_WAIT)
+chrome    12457   charl   95u  IPv4 2001062      0t0  UDP 192.168.88.10:54314->8.8.8.8:domain 
+cupsd     682    root    6u  IPv4  17006      0t0  TCP 127.0.0.1:ipp (LISTEN)
+chrome  12457   charl   51u  IPv4 364420      0t0  TCP 192.168.88.10:45432->172.217.170.78:https (ESTABLISHED)
+chrome    12457   charl   98u  IPv4 1883101      0t0  UDP 192.168.88.10:57318->8.8.8.8:domain 
+chrome    12457   charl   64u  IPv4 1957736      0t0  TCP 192.168.88.10:46578->2.18.3.250:https (SYN_SENT)
+chrome    12457   charl  192u  IPv4 1889862      0t0  TCP 192.168.88.10:53670->185.29.135.42:https (CLOSE_WAIT)
+colord-sa 29104  colord   15u  IPv6 2214709      0t0  UDP [fe80::a61f:72ff:fe5e:4d4b]:8612 
+chrome    12457   charl  224u  IPv4 1896121      0t0  TCP 192.168.88.10:46210->151.139.128.11:https (SYN_SENT)
+chrome    12457   charl  164u  IPv4 1953759      0t0  TCP 192.168.88.10:46570->213.254.244.17:https (CLOSE_WAIT)
+chrome    12457   charl   95u  IPv4 1998836      0t0  TCP 192.168.88.10:56822->51.89.240.37:https (SYN_SENT)
+chrome    12457   charl   83u  IPv4 1888461      0t0  TCP 192.168.88.10:57112->67.202.110.23:https (ESTABLISHED)
+chrome    12457   charl   32u  IPv4 544978      0t0  TCP 192.168.88.10:46514->216.58.213.3:https (ESTABLISHED)
+chrome    12457   charl   46u  IPv4 1798366      0t0  TCP 192.168.88.10:44256->37.221.195.178:https (ESTABLISHED)
+chrome    12457   charl  160u  IPv4 1888449      0t0  TCP 192.168.88.10:39522->3.222.179.110:https (SYN_SENT)
+chrome    12457   charl   55u  IPv4 244040      0t0  TCP 192.168.88.10:38584->172.217.170.10:https (ESTABLISHED)
+chrome    12457   charl   56u  IPv4 257294      0t0  TCP 192.168.88.10:40598->216.58.223.129:https (ESTABLISHED)
+systemd-t   415 systemd-timesync   12u  IPv4 1601194      0t0  UDP 192.168.88.10:57749->8.8.8.8:domain 
+chrome    12457   charl  127u  IPv4 1954841      0t0  TCP 192.168.88.10:55878->52.44.151.130:https (ESTABLISHED)
+chrome    12457   charl  132u  IPv4 1953683      0t0  TCP 192.168.88.10:55838->18.156.0.31:https (ESTABLISHED)
+chrome    12457   charl  201u  IPv4 1897127      0t0  TCP 192.168.88.10:58604->104.244.39.20:https (ESTABLISHED)
+chrome    12457   charl   48u  IPv4 1782734      0t0  TCP 192.168.88.10:44040->136.243.133.44:https (CLOSE_WAIT)
+chrome    12457   charl  121u  IPv4 1930179      0t0  UDP 192.168.88.10:56630->8.8.8.8:domain 
+chrome    12457   charl   57u  IPv4 243897      0t0  TCP 192.168.88.10:49002->172.217.170.46:https (SYN_SENT)
+chrome    12457   charl   71u  IPv4 260114      0t0  TCP 192.168.88.10:55948->172.217.170.2:https (SYN_SENT)
+chrome    12457   charl  133u  IPv4 1892004      0t0  UDP 192.168.88.10:39765->8.8.8.8:domain 
+chrome    12457   charl   73u  IPv4 301516      0t0  UDP 192.168.88.10:42965->8.8.8.8:domain 
+chrome    12457   charl   56u  IPv4 1802590      0t0  UDP 224.0.0.251:mdns 
+chrome    12457   charl  110u  IPv4 1885092      0t0  UDP 192.168.88.10:51200->8.8.8.8:domain 
+chrome    12457   charl  177u  IPv4 1896118      0t0  TCP 192.168.88.10:46204->151.139.128.11:https (SYN_SENT)
+chrome    12457   charl  113u  IPv4 1953709      0t0  TCP 192.168.88.10:58028->149.20.4.15:https (SYN_SENT)
+chrome    12457            charl   46u  IPv4 241078      0t0  TCP 192.168.88.10:57104->151.101.1.69:https (ESTABLISHED)
+chrome    12457   charl  109u  IPv4 2009707      0t0  TCP 192.168.88.10:38980->130.89.148.77:https (CLOSE_WAIT)
+chrome    12457   charl   48u  IPv4 241247      0t0  UDP 192.168.88.10:58343->8.8.8.8:domain 
+chrome    12457   charl   51u  IPv4 1786027      0t0  TCP 192.168.88.10:55294->216.58.223.138:https (ESTABLISHED)
+chrome    12457   charl  100u  IPv4 1930998      0t0  TCP 192.168.88.10:42464->46.137.152.93:https (ESTABLISHED)
+chrome    12457   charl  132u  IPv4 1953683      0t0  TCP 192.168.88.10:55838->18.156.0.31:https (CLOSE_WAIT)
+cupsd     26909             root    5u  IPv6 463190      0t0  TCP [::1]:ipp (LISTEN)
+chrome    12457   charl  114u  IPv4 1883087      0t0  TCP 192.168.88.10:43626->77.245.57.72:https (SYN_SENT)
+chrome    12457   charl   47u  IPv4 1881325      0t0  TCP 192.168.88.10:45922->151.139.128.11:https (SYN_SENT)
+mongod      738 mongodb   11u  IPv4  21444      0t0  TCP 127.0.0.1:27017 (LISTEN)
+chrome    12457   charl   83u  IPv4 1820470      0t0  TCP 192.168.88.10:36504->208.66.56.118:https (ESTABLISHED)
+chrome    12457   charl   59u  IPv4 245891      0t0  TCP 192.168.88.10:42182->172.217.170.65:https (ESTABLISHED)
+chrome    12457   charl  182u  IPv4 1888567      0t0  TCP 192.168.88.10:39116->51.178.20.139:https (ESTABLISHED)
+chrome    12457   charl   39u  IPv4 1777475      0t0  TCP 192.168.88.10:56006->172.217.170.2:https (SYN_SENT)
+chrome    12457   charl  137u  IPv4 1931059      0t0  TCP 192.168.88.10:58644->104.244.39.20:https (ESTABLISHED)
+chrome    12457   charl  108u  IPv4 1958340      0t0  TCP 192.168.88.10:34668->54.204.100.122:https (SYN_SENT)
+chrome    12457   charl  125u  IPv4 1969909      0t0  TCP 192.168.88.10:47462->194.71.11.173:https (CLOSE_WAIT)
+chrome    12457   charl   78u  IPv4 1883180      0t0  UDP 192.168.88.10:52182->8.8.8.8:domain 
+chrome    12457   charl   95u  IPv4 1970907      0t0  TCP 192.168.88.10:47458->194.71.11.173:https (CLOSE_WAIT)
+chrome    12457            charl   48u  IPv4 243403      0t0  TCP 192.168.88.10:57456->216.58.223.130:https (ESTABLISHED)
+chrome    12457   charl  182u  IPv4 1897126      0t0  TCP 192.168.88.10:58602->104.244.39.20:https (CLOSE_WAIT)
+chrome    12457            charl   60u  IPv4 241939      0t0  TCP 192.168.88.10:49006->172.217.170.46:https (ESTABLISHED)
+chrome    12457   charl   35u  IPv4 1767201      0t0  TCP 192.168.88.10:41544->172.217.170.67:https (ESTABLISHED)
+chrome    12457   charl  113u  IPv4 1888562      0t0  TCP 192.168.88.10:58046->18.159.90.169:https (ESTABLISHED)
+chrome    12457   charl  145u  IPv4 1953614      0t0  TCP 192.168.88.10:45678->34.242.137.98:https (SYN_SENT)
+chrome    12457   charl  137u  IPv4 1953448      0t0  TCP 192.168.88.10:32830->23.50.177.161:https (SYN_SENT)
+chrome    12457   charl  167u  IPv4 1887862      0t0  TCP 192.168.88.10:58582->185.64.189.115:https (ESTABLISHED)
+chrome    12457   charl  139u  IPv4 1956147      0t0  UDP 192.168.88.10:60107->8.8.8.8:domain 
+chrome    12457   charl   63u  IPv4 242306      0t0  TCP 192.168.88.10:44680->108.177.15.156:https (ESTABLISHED)
+chrome    12457   charl   91u  IPv4 1910910      0t0  TCP 192.168.88.10:58612->104.244.39.20:https (SYN_SENT)
+chrome    12457   charl   48u  IPv4 1875231      0t0  UDP 192.168.88.10:35765->8.8.8.8:domain 
+chrome    12457   charl  141u  IPv4 1931060      0t0  TCP 192.168.88.10:58646->104.244.39.20:https (SYN_SENT)
+chrome    12457   charl  134u  IPv4 1955938      0t0  UDP 192.168.88.10:33838->8.8.8.8:domain 
+chrome    12457   charl   84u  IPv4 1890735      0t0  TCP 192.168.88.10:48662->130.211.29.114:https (ESTABLISHED)
+chrome    12457            charl   37u  IPv4 299389      0t0  TCP 192.168.88.10:34936->172.217.170.3:https (ESTABLISHED)
+chrome    12457   charl   53u  IPv4  440774      0t0  TCP 192.168.88.10:48346->198.252.206.25:https (ESTABLISHED)
+chrome    12457   charl   41u  IPv4 1872489      0t0  TCP 192.168.88.10:35070->172.217.170.3:https (ESTABLISHED)
+chrome    12457   charl  100u  IPv4 1888237      0t0  TCP 192.168.88.10:50570->2.17.205.90:https (ESTABLISHED)
+chrome    12457   charl  196u  IPv4 1889243      0t0  UDP 192.168.88.10:41686->8.8.8.8:domain 
+chrome    12457   charl  233u  IPv4 1893291      0t0  TCP 192.168.88.10:56654->54.179.29.174:https (ESTABLISHED)
+chrome    12457   charl   84u  IPv4 1820471      0t0  TCP 192.168.88.10:36506->208.66.56.118:https (ESTABLISHED)
+chrome    12457   charl  166u  IPv4 1959244      0t0  UDP 192.168.88.10:39839->8.8.8.8:domain 
+chrome    12457   charl   27u  IPv4 1767700      0t0  TCP 192.168.88.10:60662->216.58.223.132:https (SYN_SENT)
+chrome    12457   charl   65u  IPv4 1799625      0t0  UDP 192.168.88.10:44392->8.8.8.8:domain 
+chrome    12457   charl  154u  IPv4 1889399      0t0  TCP 192.168.88.10:33198->52.95.123.41:https (CLOSE_WAIT)
+chrome    12457   charl  139u  IPv4 1891996      0t0  TCP 192.168.88.10:38780->208.100.17.180:https (ESTABLISHED)
+chrome    12457   charl   65u  IPv4 250255      0t0  TCP 192.168.88.10:55942->172.217.170.2:https (SYN_SENT)
+chrome    12457   charl  177u  IPv4 1896118      0t0  TCP 192.168.88.10:46204->151.139.128.11:https (ESTABLISHED)
+chrome    12457   charl  159u  IPv4 1956546      0t0  UDP 192.168.88.10:43396->8.8.8.8:domain 
+chrome    12457   charl   96u  IPv4 1996718      0t0  TCP 192.168.88.10:56820->51.89.240.37:https (CLOSE_WAIT)
+chrome    12457   charl   66u  IPv4 242308      0t0  TCP 192.168.88.10:44682->108.177.15.156:https (SYN_SENT)
+chrome    12457   charl  122u  IPv4 1971832      0t0  TCP 192.168.88.10:50496->185.86.139.115:https (ESTABLISHED)
+chrome    12457   charl  153u  IPv4 1970956      0t0  TCP 192.168.88.10:50504->185.86.139.115:https (CLOSE_WAIT)
+chrome    12457            charl   35u  IPv4 233052      0t0  TCP 192.168.88.10:48976->172.217.170.46:https (ESTABLISHED)
+chrome    12457   charl  107u  IPv4 1954914      0t0  TCP 192.168.88.10:41344->46.228.164.13:https (SYN_SENT)
+cupsd     26909    root    6u  IPv4 463191      0t0  TCP 127.0.0.1:ipp (LISTEN)
+chrome    12457   charl   65u  IPv4 1870853      0t0  UDP 192.168.88.10:55399->8.8.8.8:domain 
+chrome    12457   charl  225u  IPv4 1892043      0t0  TCP 192.168.88.10:52272->64.233.166.155:https (SYN_SENT)
+chrome    12457   charl   67u  IPv4 1878793      0t0  UDP 192.168.88.10:37937->8.8.8.8:domain 
+ThreadPoo 31319   charl  176u  IPv4  234414      0t0  UDP 224.0.0.251:mdns 
+chrome    12457   charl  104u  IPv4 2003024      0t0  TCP 192.168.88.10:56824->51.89.240.37:https (CLOSE_WAIT)
+chrome    12457   charl  151u  IPv4 1889376      0t0  TCP 192.168.88.10:55502->18.156.0.31:https (SYN_SENT)
+chrome    12457   charl  164u  IPv4 1888464      0t0  TCP 192.168.88.10:39532->3.222.179.110:https (CLOSE_WAIT)
+chrome    12457   charl  107u  IPv4 1883065      0t0  TCP 192.168.88.10:59530->185.33.220.243:https (SYN_SENT)
+chrome    12457   charl   61u  IPv4 243677      0t0  TCP 192.168.88.10:38586->172.217.170.10:https (SYN_SENT)
+chrome    12457   charl   73u  IPv4 302440      0t0  TCP 192.168.88.10:37584->173.194.128.232:http (ESTABLISHED)
+chrome    12457   charl  145u  IPv4 1953614      0t0  TCP 192.168.88.10:45678->34.242.137.98:https (ESTABLISHED)
+colord-sa  1411  colord   13u  IPv4 1705244      0t0  UDP 192.168.88.10:8612 
+chrome    12457   charl  135u  IPv4 1972290      0t0  TCP 192.168.88.10:35796->192.124.249.31:http (ESTABLISHED)
+chrome    12457            charl   53u  IPv4 440774      0t0  TCP 192.168.88.10:48346->198.252.206.25:https (ESTABLISHED)
+chrome    12457   charl  183u  IPv4 1888568      0t0  TCP 192.168.88.10:40524->159.253.128.188:https (ESTABLISHED)
+chrome    12457   charl  168u  IPv4 1960044      0t0  TCP 192.168.88.10:58244->185.94.180.126:https (ESTABLISHED)
+chrome    12457   charl  118u  IPv4 1954017      0t0  TCP 192.168.88.10:55872->52.44.151.130:https (ESTABLISHED)
+chrome    12457   charl   50u  IPv4 1798911      0t0  TCP 192.168.88.10:56156->172.217.170.35:https (ESTABLISHED)
+chrome    12457   charl   54u  IPv4 1789213      0t0  TCP 192.168.88.10:40154->216.58.223.106:https (ESTABLISHED)
+chrome    12457   charl  210u  IPv4 1894114      0t0  TCP 192.168.88.10:60870->154.59.122.79:https (ESTABLISHED)
+chrome    12457   charl   32u  IPv4 1767701      0t0  TCP 192.168.88.10:60664->216.58.223.132:https (SYN_SENT)
+chrome    12457   charl   66u  IPv4 1881671      0t0  TCP 192.168.88.10:38634->91.228.74.134:https (SYN_SENT)
+chrome    12457   charl  130u  IPv4 1887778      0t0  UDP 192.168.88.10:46971->8.8.8.8:domain 
+chrome    12457   charl  134u  IPv4 1888410      0t0  TCP 192.168.88.10:35796->199.127.204.147:https (ESTABLISHED)
+chrome    12457   charl  149u  IPv4 1893903      0t0  TCP 192.168.88.10:38778->208.100.17.180:https (ESTABLISHED)
+chrome    12457   charl  134u  IPv4 1933111      0t0  TCP 192.168.88.10:58640->104.244.39.20:https (ESTABLISHED)
+chrome    12457   charl   40u  IPv4 1771158      0t0  UDP 192.168.88.10:53914->8.8.8.8:domain 
+chrome    12457   charl   48u  IPv4 1800608      0t0  TCP 192.168.88.10:35748->216.58.212.234:https (SYN_SENT)
+chrome    12457   charl  115u  IPv4 1888256      0t0  TCP 192.168.88.10:50308->185.60.219.16:https (ESTABLISHED)
+chrome    12457   charl  219u  IPv4 1892426      0t0  TCP 192.168.88.10:38678->18.235.226.14:https (ESTABLISHED)
+cupsd     26909             root    5u  IPv6  463190      0t0  TCP [::1]:ipp (LISTEN)
+chrome    12457   charl   46u  IPv4 1873281      0t0  TCP 192.168.88.10:57050->216.58.223.131:https (ESTABLISHED)
+chrome    12457   charl   47u  IPv4 2074136      0t0  TCP 192.168.88.10:49718->172.217.170.46:https (SYN_SENT)
+chrome    12457   charl   93u  IPv4 1914078      0t0  TCP 192.168.88.10:49848->46.228.164.11:https (SYN_SENT)
+chrome    12457   charl  159u  IPv4 1973357      0t0  TCP 192.168.88.10:35050->136.144.49.28:https (SYN_SENT)
+chrome    12457   charl   46u  IPv4 1948146      0t0  TCP 192.168.88.10:35420->172.217.170.3:https (ESTABLISHED)
+chrome    12457   charl   38u  IPv4 1880229      0t0  TCP 192.168.88.10:42752->151.101.2.49:https (ESTABLISHED)
+avahi-dae   688   avahi   13u  IPv6  19903      0t0  UDP *:mdns 
+chrome    12457   charl  163u  IPv4 1955418      0t0  UDP 192.168.88.10:49392->8.8.8.8:domain 
+chrome    12457   charl  122u  IPv4 2011303      0t0  UDP 192.168.88.10:59295->8.8.8.8:domain 
+chrome    12457   charl   96u  IPv4 1996718      0t0  TCP 192.168.88.10:56820->51.89.240.37:https (SYN_SENT)
+chrome    12457   charl  178u  IPv4 1887887      0t0  UDP 192.168.88.10:56771->8.8.8.8:domain 
+chrome    12457   charl  162u  IPv4 1888462      0t0  TCP 192.168.88.10:55518->18.156.0.31:https (ESTABLISHED)
+chrome    12457   charl  224u  IPv4 1894300      0t0  UDP 192.168.88.10:53511->8.8.8.8:domain 
+chrome    12457   charl  165u  IPv4 1957349      0t0  TCP 192.168.88.10:41840->18.158.221.94:https (CLOSE_WAIT)
+chrome    12457   charl  215u  IPv4 1891473      0t0  TCP 192.168.88.10:59824->69.173.144.165:https (CLOSE_WAIT)
+chrome    12457   charl   54u  IPv4 364421      0t0  TCP 192.168.88.10:53928->216.58.223.99:https (ESTABLISHED)
+chrome    12457   charl   95u  IPv4 1970907      0t0  TCP 192.168.88.10:47458->194.71.11.173:https (ESTABLISHED)
+chrome    12457   charl   65u  IPv4 1882305      0t0  TCP 192.168.88.10:34960->13.224.78.80:https (SYN_SENT)
+chrome    12457   charl  145u  IPv4 1969976      0t0  TCP 192.168.88.10:47470->194.71.11.173:https (ESTABLISHED)
+chrome    12457   charl   59u  IPv4 1957135      0t0  TCP 192.168.88.10:52972->2.17.205.161:https (ESTABLISHED)
+chrome    12457   charl   64u  IPv4 1822884      0t0  TCP 192.168.88.10:36512->208.66.56.118:https (ESTABLISHED)
+chrome    12457   charl  118u  IPv4 1889367      0t0  TCP 192.168.88.10:58554->185.64.189.115:https (ESTABLISHED)
+chrome    12457   charl   44u  IPv4 235429      0t0  UDP 192.168.88.10:40849->8.8.8.8:domain 
+chrome    12457   charl   60u  IPv4 1784937      0t0  UDP 192.168.88.10:41086->8.8.8.8:domain 
+chrome    12457   charl  135u  IPv4 1955022      0t0  TCP 192.168.88.10:56220->69.173.144.138:https (SYN_SENT)
+chrome    12457   charl  137u  IPv4 1972025      0t0  TCP 192.168.88.10:59988->185.33.220.243:https (CLOSE_WAIT)
+chrome    12457   charl  114u  IPv4 1954918      0t0  TCP 192.168.88.10:41346->46.228.164.13:https (ESTABLISHED)
+avahi-dae   688   avahi   15u  IPv6  19905      0t0  UDP *:49061 
+chrome    12457   charl   76u  IPv4 1950079      0t0  TCP 192.168.88.10:34074->172.217.170.14:https (ESTABLISHED)
+chrome    12457   charl  127u  IPv4 1954841      0t0  TCP 192.168.88.10:55878->52.44.151.130:https (SYN_SENT)
+chrome    12457   charl   42u  IPv4 1771137      0t0  UDP 192.168.88.10:57626->8.8.8.8:domain 
+chrome    12457   charl  131u  IPv4 1890822      0t0  TCP 192.168.88.10:57008->8.43.72.97:https (ESTABLISHED)
+chrome    12457   charl  174u  IPv4 1959458      0t0  TCP 192.168.88.10:34768->154.57.158.51:https (SYN_SENT)
+chrome    12457   charl  224u  IPv4 1897128      0t0  TCP 192.168.88.10:58606->104.244.39.20:https (ESTABLISHED)
+chrome    12457            charl   72u  IPv4 300932      0t0  TCP 192.168.88.10:32882->216.58.223.142:http (CLOSE_WAIT)
+chrome    12457   charl   47u  IPv4 1781390      0t0  TCP 192.168.88.10:44036->136.243.133.44:https (SYN_SENT)
+chrome    12457   charl  139u  IPv4 1973355      0t0  TCP 192.168.88.10:35048->136.144.49.28:https (SYN_SENT)
+chrome    12457   charl  118u  IPv4 1889367      0t0  TCP 192.168.88.10:58554->185.64.189.115:https (SYN_SENT)
+chrome    12457   charl   81u  IPv4 1950421      0t0  UDP 192.168.88.10:37617->8.8.8.8:domain 
+chrome    12457   charl   49u  IPv4 439818      0t0  UDP 192.168.88.10:48247->8.8.8.8:domain 
+chrome    12457   charl   40u  IPv4 2023812      0t0  TCP 192.168.88.10:42180->172.217.170.67:https (ESTABLISHED)
+chrome    12457   charl  104u  IPv4 2003024      0t0  TCP 192.168.88.10:56824->51.89.240.37:https (ESTABLISHED)
+chrome  12457   charl   65u  IPv4 250255      0t0  TCP 192.168.88.10:55942->172.217.170.2:https (ESTABLISHED)
+chrome    12457   charl   83u  IPv4 1820470      0t0  TCP 192.168.88.10:36504->208.66.56.118:https (SYN_SENT)
+chrome  12457   charl   72u  IPv4 300932      0t0  TCP 192.168.88.10:32882->216.58.223.142:http (ESTABLISHED)
+chrome    12457   charl   60u  IPv4 1800930      0t0  UDP 192.168.88.10:54521->8.8.8.8:domain 
+chrome    12457   charl   40u  IPv4 234889      0t0  UDP 192.168.88.10:56581->8.8.8.8:domain 
+chrome    12457   charl  139u  IPv4 1953603      0t0  TCP 192.168.88.10:45674->34.242.137.98:https (CLOSE_WAIT)
+cupsd     26909    root    5u  IPv6 463190      0t0  TCP [::1]:ipp (LISTEN)
+chrome  12457   charl   34u  IPv4 297585      0t0  TCP 192.168.88.10:49038->172.217.170.46:https (ESTABLISHED)
+chrome    12457   charl  140u  IPv4 1893831      0t0  UDP 192.168.88.10:41181->8.8.8.8:domain 
+chrome    12457   charl  188u  IPv4 1894859      0t0  TCP 192.168.88.10:44972->13.224.78.45:https (SYN_SENT)
+chrome    12457   charl   69u  IPv4 1878791      0t0  TCP 192.168.88.10:38636->91.228.74.134:https (ESTABLISHED)
+chrome    12457   charl  175u  IPv4 1891467      0t0  TCP 192.168.88.10:46194->89.207.16.137:https (ESTABLISHED)
+chrome    12457   charl   58u  IPv4 1798912      0t0  TCP 192.168.88.10:55320->216.58.223.138:https (SYN_SENT)
+chrome    12457   charl   64u  IPv4 1822884      0t0  TCP 192.168.88.10:36512->208.66.56.118:https (SYN_SENT)
+chrome    12457   charl   70u  IPv4 301464      0t0  TCP 192.168.88.10:32880->216.58.223.142:http (CLOSE_WAIT)
+chrome    12457   charl   69u  IPv4 255818      0t0  TCP 192.168.88.10:40600->216.58.223.129:https (ESTABLISHED)
+chrome    12457   charl   63u  IPv4 1823256      0t0  TCP 192.168.88.10:36516->208.66.56.118:https (SYN_SENT)
+chrome    12457   charl   63u  IPv4 245210      0t0  UDP 192.168.88.10:57749->8.8.8.8:domain 
+chrome    12457   charl  137u  IPv4 1953448      0t0  TCP 192.168.88.10:32830->23.50.177.161:https (ESTABLISHED)
+chrome    12457   charl   83u  IPv4 1999735      0t0  TCP 192.168.88.10:56816->51.89.240.37:https (ESTABLISHED)
+chrome    12457   charl   92u  IPv4 1886183      0t0  UDP 192.168.88.10:49130->8.8.8.8:domain 
+chrome    12457   charl   64u  IPv4 1818819      0t0  TCP 192.168.88.10:36494->208.66.56.118:https (SYN_SENT)
+chrome    12457   charl  134u  IPv4 1954253      0t0  UDP 192.168.88.10:60556->8.8.8.8:domain 
+chrome    12457   charl  111u  IPv4 1891392      0t0  TCP 192.168.88.10:59782->69.173.144.165:https (SYN_SENT)
+chrome  12457   charl   38u  IPv4 233048      0t0  TCP 192.168.88.10:57430->216.58.223.130:https (ESTABLISHED)
+chrome    12457   charl   83u  IPv4 1882382      0t0  UDP 192.168.88.10:42484->8.8.8.8:domain 
+chrome    12457   charl  171u  IPv4 1888528      0t0  TCP 192.168.88.10:39102->51.178.20.139:https (ESTABLISHED)
+chrome    12457   charl  165u  IPv4 1957349      0t0  TCP 192.168.88.10:41840->18.158.221.94:https (SYN_SENT)
+chrome    12457   charl  111u  IPv4 1957722      0t0  TCP 192.168.88.10:46576->2.18.3.250:https (ESTABLISHED)
+chrome  12457   charl   58u  IPv4 242453      0t0  TCP 192.168.88.10:47470->91.228.74.198:https (ESTABLISHED)
+mongod      738          mongodb   11u  IPv4   21444      0t0  TCP 127.0.0.1:27017 (LISTEN)
+chrome    12457   charl   44u  IPv4 1778356      0t0  UDP 192.168.88.10:58835->8.8.8.8:domain 
+chrome    12457   charl   75u  IPv4 1878875      0t0  UDP 192.168.88.10:33131->8.8.8.8:domain 
+chrome    12457   charl   64u  IPv4 1878770      0t0  TCP 192.168.88.10:45924->151.139.128.11:https (CLOSE_WAIT)
+wget        392   charl    5u  IPv4 2274316      0t0  TCP 192.168.88.10:34296->172.217.170.14:https (ESTABLISHED)
+chrome    12457   charl   79u  IPv4 1799626      0t0  TCP 192.168.88.10:44264->37.221.195.178:https (SYN_SENT)
+chrome    12457   charl   81u  IPv4 1906115      0t0  UDP 192.168.88.10:60391->8.8.8.8:domain 
+chrome    12457   charl  174u  IPv4 1959458      0t0  TCP 192.168.88.10:34768->154.57.158.51:https (ESTABLISHED)
+chrome    12457   charl   47u  IPv4 1875229      0t0  UDP 192.168.88.10:36701->8.8.8.8:domain 
+chrome    12457   charl  114u  IPv4 1971883      0t0  TCP 192.168.88.10:48846->35.190.113.31:https (ESTABLISHED)
+cupsd     682    root    5u  IPv6  17005      0t0  TCP [::1]:ipp (LISTEN)
+cupsd       682    root    6u  IPv4  17006      0t0  TCP 127.0.0.1:ipp (LISTEN)
+chrome    12457   charl  163u  IPv4 1888463      0t0  TCP 192.168.88.10:55690->52.58.102.227:https (SYN_SENT)
+chrome    12457   charl  198u  IPv4 1894685      0t0  TCP 192.168.88.10:46660->216.58.223.134:https (ESTABLISHED)
+chrome    12457   charl  107u  IPv4 1954914      0t0  TCP 192.168.88.10:41344->46.228.164.13:https (ESTABLISHED)
+chrome    12457   charl  176u  IPv4 1888557      0t0  TCP 192.168.88.10:56290->104.94.95.5:https (ESTABLISHED)
+chrome    12457   charl   23u  IPv4 835771      0t0  TCP 192.168.88.10:36364->172.217.20.131:https (ESTABLISHED)
+chrome    12457   charl  132u  IPv4 1958663      0t0  TCP 192.168.88.10:55446->18.207.146.85:https (ESTABLISHED)
+chrome    12457   charl  172u  IPv4 1957578      0t0  TCP 192.168.88.10:34766->154.57.158.51:https (SYN_SENT)
+wget      31064   charl    5u  IPv4 2250065      0t0  UDP 192.168.88.10:48969->8.8.8.8:domain 
+chrome    12457   charl  222u  IPv4 1891475      0t0  TCP 192.168.88.10:59828->69.173.144.165:https (ESTABLISHED)
+chrome    12457   charl   54u  IPv4 1948864      0t0  UDP 192.168.88.10:39475->8.8.8.8:domain 
+chrome    12457   charl  114u  IPv4 1954918      0t0  TCP 192.168.88.10:41346->46.228.164.13:https (SYN_SENT)
+chrome  12457   charl   55u  IPv4 244040      0t0  TCP 192.168.88.10:38584->172.217.170.10:https (ESTABLISHED)
+chrome    12457   charl   50u  IPv4 1798911      0t0  TCP 192.168.88.10:56156->172.217.170.35:https (SYN_SENT)
+chrome    12457   charl  187u  IPv4 1892425      0t0  TCP 192.168.88.10:59832->69.173.144.165:https (ESTABLISHED)
+chrome    12457   charl  123u  IPv4 1890178      0t0  TCP 192.168.88.10:39490->77.243.60.138:https (CLOSE_WAIT)
+chrome    12457   charl   58u  IPv4 245990      0t0  UDP 192.168.88.10:34052->8.8.8.8:domain 
+chrome    12457   charl  131u  IPv4 1888663      0t0  UDP 192.168.88.10:54712->8.8.8.8:domain 
+chrome    12457   charl   69u  IPv4 1954015      0t0  TCP 192.168.88.10:59924->35.227.248.159:https (ESTABLISHED)
+chrome    12457            charl   62u  IPv4 250075      0t0  TCP 192.168.88.10:37530->104.92.151.165:https (ESTABLISHED)
+chrome    12457   charl   83u  IPv4 1950550      0t0  TCP 192.168.88.10:49020->2.18.0.23:https (SYN_SENT)
+chrome    12457   charl  113u  IPv4 1971746      0t0  TCP 192.168.88.10:47460->194.71.11.173:https (SYN_SENT)
+chrome    12457            charl   32u  IPv4 544978      0t0  TCP 192.168.88.10:46514->216.58.213.3:https (ESTABLISHED)
+chrome    12457   charl  169u  IPv4 1959371      0t0  TCP 192.168.88.10:34670->54.204.100.122:https (ESTABLISHED)
+chrome    12457   charl  125u  IPv4 1969909      0t0  TCP 192.168.88.10:47462->194.71.11.173:https (SYN_SENT)
+chrome    12457   charl   91u  IPv4 1883053      0t0  TCP 192.168.88.10:41628->72.251.249.14:https (ESTABLISHED)
+chrome    12457   charl  162u  IPv4 1956549      0t0  TCP 192.168.88.10:58026->149.20.4.15:https (ESTABLISHED)
+chrome    12457   charl   89u  IPv4 1883043      0t0  TCP 192.168.88.10:41770->2.17.204.225:https (ESTABLISHED)
+chrome    12457   charl  141u  IPv4 1931060      0t0  TCP 192.168.88.10:58646->104.244.39.20:https (CLOSE_WAIT)
+chrome    12457            charl   70u  IPv4 301464      0t0  TCP 192.168.88.10:32880->216.58.223.142:http (ESTABLISHED)
+chrome    12457   charl   39u  IPv4 234412      0t0  UDP 192.168.88.10:50344->8.8.8.8:domain 

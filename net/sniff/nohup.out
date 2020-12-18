@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "capture_outgoing_traffic.py", line 25, in <module>
+    time.sleep(2)
+KeyboardInterrupt
