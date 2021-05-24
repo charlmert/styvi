@@ -11,7 +11,6 @@ while getopts ":d:" o; do
 done
 #shift $((OPTIND-1))
 
-echo "d = ${d}"
 if [[ " $@ " =~ "-l " ]]; then
    rm -f /tmp/chrome_versions.txt
    rm -f /tmp/chrome_versions_actionable.txt
@@ -26,6 +25,7 @@ elif [ ! -z "${d}" ]; then
    version=`cat /tmp/chrome_versions_actionable.txt | grep -E "^${d}:" | sed 's/.*: //' | tr -d '\n'`
    echo "wget https://dl.google.com/linux/chrome/deb/pool/main/g/google-chrome-stable/google-chrome-stable_"$version"_amd64.deb"
    wget "https://dl.google.com/linux/chrome/deb/pool/main/g/google-chrome-stable/google-chrome-stable_"$version"_amd64.deb"
+   sudo dpkg -i "google-chrome-stable_"$version"_amd64.deb"
 else
    usage
 fi
