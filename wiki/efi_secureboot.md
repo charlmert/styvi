@@ -1,5 +1,12 @@
 # How to sign kernel modules and enroll mok key
 
+## After a fresh secure boot install take ownership of the Machine Owner Key (MOK)
+
+```bash
+mokutil --enable-validation
+```
+
+## Enrolling a new key and signing a driver/kernel module
 https://superuser.com/questions/1438279/how-to-sign-a-kernel-module-ubuntu-18-04
 
 Create a personal public/private RSA key pair to sign the kernel modules. As recommended in the link below, I chose to store the key/pair in the /root/module-signing/ directory.
