@@ -56,10 +56,13 @@ databases=`$MYSQL --user=$USER --password=$PASSWORD -e "SHOW DATABASES;" | grep 
 the_date=`date -I`
 # dump each database in turn
 for db in $databases; do
-    echo "$db_$the_date.sql"
+    echo "$db""_""$the_date.sql"
 	if [ $GZIP_ENABLED == 1 ]; then
-		$MYSQLDUMP -Qc --user=$USER --password=$PASSWORD --databases "$db" | gzip > "$OUTPUTDIR/$db_$the_date.gz"
+		$MYSQLDUMP -Qc --user=$USER --password=$PASSWORD --databases "$db" | gzip > "$OUTPUTDIR/$db""_""$the_date.gz"
 	else
-	    $MYSQLDUMP -Qc --user=$USER --password=$PASSWORD --databases "$db" > "$OUTPUTDIR/$db_$the_date.sql"
+	    $MYSQLDUMP -Qc --user=$USER --password=$PASSWORD --databases "$db" > "$OUTPUTDIR/$db""_""$the_date.sql"
    	fi
 done
+
+# Clean up older than 31 days
+find "$OUTPUTDIR/*.sql.gz" -mtime +31 -exec rm {} \;
