@@ -11,17 +11,31 @@ sudo mv winetricks /usr/local/bin
 
 And then run by pasting the following into a terminal with user level (non root) access.
 
-To run ie 8
+To install ie 8
 
 ```bash
 WINEPREFIX=~/.wine32ie8 WINEARCH=win32 winetricks ie8 crypt32
 ```
 
-To run ie 7
+To run ie 8
+
+```bash
+WINEPREFIX=~/.wine32ie8 WINEARCH=win32 wine 'C:\Program Files\Internet Explorer\iexplore'
+```
+
+To install ie 7
 
 ```bash
 WINEPREFIX=~/.wine32ie7 WINEARCH=win32 winetricks ie7
 ```
+
+To run ie 7
+
+```bash
+WINEPREFIX=~/.wine32ie7 WINEARCH=win32 wine 'C:\Program Files\Internet Explorer\iexplore'
+```
+
+
 
 ## References
 
