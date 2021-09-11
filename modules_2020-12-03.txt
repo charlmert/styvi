@@ -1,0 +1,169 @@
+Module                  Size  Used by
+dm_crypt               40960  2
+algif_skcipher         16384  0
+af_alg                 28672  1 algif_skcipher
+dm_mod                155648  5 dm_crypt
+uas                    28672  0
+usb_storage            73728  2 uas
+bnep                   24576  2
+nfnetlink_queue        24576  0
+nfnetlink_log          20480  0
+bluetooth             647168  7 bnep
+drbg                   28672  1
+ansi_cprng             16384  0
+ecdh_generic           24576  1 bluetooth
+fuse                  122880  3
+xt_nat                 16384  0
+veth                   20480  0
+ipt_MASQUERADE         16384  1
+nf_conntrack_netlink    49152  0
+xfrm_user              40960  1
+xfrm_algo              16384  1 xfrm_user
+nft_chain_nat_ipv4     16384  4
+nf_nat_ipv4            16384  2 ipt_MASQUERADE,nft_chain_nat_ipv4
+br_netfilter           24576  0
+bridge                188416  1 br_netfilter
+stp                    16384  1 bridge
+llc                    16384  2 bridge,stp
+aufs                  274432  0
+rfkill                 28672  5 bluetooth
+overlay               131072  0
+vboxnetadp             28672  0
+vboxnetflt             32768  0
+vboxdrv               491520  2 vboxnetadp,vboxnetflt
+intel_rapl             24576  0
+x86_pkg_temp_thermal    16384  0
+intel_powerclamp       16384  0
+coretemp               16384  0
+snd_hda_codec_hdmi     57344  1
+snd_hda_codec_conexant    24576  1
+snd_hda_codec_generic    86016  1 snd_hda_codec_conexant
+snd_hda_intel          49152  4
+snd_hda_codec         151552  4 snd_hda_codec_generic,snd_hda_codec_conexant,snd_hda_codec_hdmi,snd_hda_intel
+kvm                   757760  0
+snd_hda_core           94208  5 snd_hda_codec_generic,snd_hda_codec_conexant,snd_hda_codec_hdmi,snd_hda_intel,snd_hda_codec
+snd_hwdep              16384  1 snd_hda_codec
+snd_pcm               114688  4 snd_hda_codec_hdmi,snd_hda_intel,snd_hda_codec,snd_hda_core
+irqbypass              16384  1 kvm
+snd_timer              36864  1 snd_pcm
+snd                    94208  16 snd_hda_codec_generic,snd_hda_codec_conexant,snd_hda_codec_hdmi,snd_hwdep,snd_hda_intel,snd_hda_codec,snd_timer,snd_pcm
+crct10dif_pclmul       16384  0
+crc32_pclmul           16384  0
+ghash_clmulni_intel    16384  0
+soundcore              16384  1 snd
+mei_me                 45056  0
+mei                   118784  1 mei_me
+sg                     36864  0
+iTCO_wdt               16384  0
+serio_raw              16384  0
+iTCO_vendor_support    16384  1 iTCO_wdt
+ie31200_edac           16384  0
+intel_cstate           16384  0
+intel_uncore          135168  0
+pcc_cpufreq            16384  0
+intel_rapl_perf        16384  0
+dell_wmi               16384  0
+dell_smbios            28672  1 dell_wmi
+dell_wmi_descriptor    16384  2 dell_wmi,dell_smbios
+wmi_bmof               16384  0
+sparse_keymap          16384  1 dell_wmi
+pcspkr                 16384  0
+evdev                  28672  15
+dcdbas                 16384  1 dell_smbios
+nf_log_ipv6            16384  6
+ip6t_REJECT            16384  1
+nf_reject_ipv6         16384  1 ip6t_REJECT
+xt_hl                  16384  22
+ip6_tables             32768  52
+ip6t_rt                16384  3
+nf_log_ipv4            16384  6
+nf_log_common          16384  2 nf_log_ipv4,nf_log_ipv6
+ipt_REJECT             16384  1
+nf_reject_ipv4         16384  1 ipt_REJECT
+xt_LOG                 16384  12
+nft_limit              16384  15
+xt_limit               16384  0
+xt_addrtype            16384  6
+xt_tcpudp              16384  38
+xt_conntrack           16384  13
+nft_compat             20480  157
+nft_counter            16384  206
+nf_conntrack_netbios_ns    16384  0
+nf_conntrack_broadcast    16384  1 nf_conntrack_netbios_ns
+nf_nat_ftp             16384  0
+nf_nat                 36864  3 nf_nat_ftp,nf_nat_ipv4,xt_nat
+nf_conntrack_ftp       20480  1 nf_nat_ftp
+nf_conntrack          172032  10 xt_conntrack,nf_nat,nf_nat_ftp,ipt_MASQUERADE,nf_conntrack_netbios_ns,nf_nat_ipv4,xt_nat,nf_conntrack_broadcast,nf_conntrack_netlink,nf_conntrack_ftp
+nf_defrag_ipv6         20480  1 nf_conntrack
+nf_defrag_ipv4         16384  1 nf_conntrack
+nf_tables             143360  512 nft_compat,nft_chain_nat_ipv4,nft_counter,nft_limit
+nfnetlink              16384  6 nfnetlink_queue,nft_compat,nf_conntrack_netlink,nf_tables,nfnetlink_log
+parport_pc             32768  0
+ppdev                  20480  0
+lp                     20480  0
+sunrpc                425984  1
+parport                57344  3 parport_pc,lp,ppdev
+ip_tables              28672  8
+x_tables               45056  14 xt_conntrack,nft_compat,xt_LOG,xt_tcpudp,ipt_MASQUERADE,xt_addrtype,xt_nat,ip6t_rt,ip6_tables,ipt_REJECT,ip_tables,xt_limit,xt_hl,ip6t_REJECT
+autofs4                49152  2
+ext4                  741376  3
+crc16                  16384  2 bluetooth,ext4
+mbcache                16384  1 ext4
+jbd2                  122880  1 ext4
+fscrypto               32768  1 ext4
+ecb                    16384  0
+btrfs                1400832  0
+zstd_decompress        81920  1 btrfs
+zstd_compress         172032  1 btrfs
+xxhash                 16384  2 zstd_compress,zstd_decompress
+raid10                 57344  0
+raid456               172032  0
+async_raid6_recov      20480  1 raid456
+async_memcpy           16384  2 raid456,async_raid6_recov
+async_pq               16384  2 raid456,async_raid6_recov
+async_xor              16384  3 async_pq,raid456,async_raid6_recov
+async_tx               16384  5 async_pq,async_memcpy,async_xor,raid456,async_raid6_recov
+xor                    24576  2 async_xor,btrfs
+raid6_pq              122880  4 async_pq,btrfs,raid456,async_raid6_recov
+libcrc32c              16384  4 nf_conntrack,nf_nat,btrfs,raid456
+crc32c_generic         16384  0
+raid1                  45056  0
+raid0                  20480  0
+multipath              16384  0
+linear                 16384  0
+md_mod                167936  6 raid1,raid10,raid0,linear,raid456,multipath
+hid_generic            16384  0
+usbhid                 57344  0
+hid                   135168  2 usbhid,hid_generic
+sr_mod                 28672  0
+cdrom                  65536  1 sr_mod
+sd_mod                 61440  7
+crc32c_intel           24576  7
+i915                 1736704  22
+i2c_algo_bit           16384  1 i915
+aesni_intel           200704  4
+drm_kms_helper        208896  1 i915
+ahci                   40960  3
+libahci                40960  1 ahci
+aes_x86_64             20480  1 aesni_intel
+libata                270336  2 libahci,ahci
+crypto_simd            16384  1 aesni_intel
+cryptd                 28672  5 crypto_simd,ghash_clmulni_intel,aesni_intel
+drm                   495616  13 drm_kms_helper,i915
+glue_helper            16384  1 aesni_intel
+ehci_pci               16384  0
+ehci_hcd               94208  1 ehci_pci
+psmouse               172032  0
+scsi_mod              249856  6 sd_mod,usb_storage,uas,libata,sg,sr_mod
+usbcore               294912  5 ehci_pci,usbhid,usb_storage,ehci_hcd,uas
+i2c_i801               28672  0
+r8169                  90112  0
+realtek                20480  1
+libphy                 77824  2 r8169,realtek
+lpc_ich                28672  0
+mfd_core               16384  1 lpc_ich
+usb_common             16384  1 usbcore
+wmi                    28672  4 dell_wmi,wmi_bmof,dell_smbios,dell_wmi_descriptor
+thermal                20480  0
+video                  45056  2 dell_wmi,i915
+button                 16384  0
