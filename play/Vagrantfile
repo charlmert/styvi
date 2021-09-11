@@ -1,5 +1,5 @@
 Vagrant.configure("2") do |config|
-  config.vm.box = "debian/stretch64"
+  config.vm.box = "kalilinux"
 
   config.ssh.insert_key = true
   # config.ssh.insert_key = false
@@ -16,6 +16,6 @@ Vagrant.configure("2") do |config|
   # config.vm.network "public_network", use_dhcp_assigned_default_route: true
   # config.vm.network "public_network", ip: "11.0.0.15"
   config.vm.synced_folder ".", "/home/vagrant", type: 'nfs'
-  config.vm.synced_folder "/Users/charl/projects/routenetworks.africa.signup", "/var/www/routenetworks", type: 'nfs'
+  config.vm.synced_folder "/home/charl/projects/styvi", "/opt/styvi", type: 'nfs'
 
 end
